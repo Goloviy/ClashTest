@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 899dd5aaf08239347bbd736ab5525dad, type: 3}
+  m_Name: Weapon-ThrowingKnife
+  m_EditorClassIdentifier: 
+  id: 9423b856-b389-410b-a604-5a3cf4f39db3
+  title: Crossbow
+  spriteIcons:
+  - {fileID: 21300000, guid: 76a96569e0d6bf74b88ea56e1c53b8a4, type: 3}
+  - {fileID: 21300000, guid: 76a96569e0d6bf74b88ea56e1c53b8a4, type: 3}
+  - {fileID: 21300000, guid: 76a96569e0d6bf74b88ea56e1c53b8a4, type: 3}
+  - {fileID: 21300000, guid: d5b86a8c993c64849a2c0717df2b2d3b, type: 3}
+  - {fileID: 21300000, guid: d5b86a8c993c64849a2c0717df2b2d3b, type: 3}
+  - {fileID: 21300000, guid: d5b86a8c993c64849a2c0717df2b2d3b, type: 3}
+  - {fileID: 21300000, guid: d5b86a8c993c64849a2c0717df2b2d3b, type: 3}
+  - {fileID: 21300000, guid: d5b86a8c993c64849a2c0717df2b2d3b, type: 3}
+  - {fileID: 21300000, guid: d5b86a8c993c64849a2c0717df2b2d3b, type: 3}
+  - {fileID: 21300000, guid: d5b86a8c993c64849a2c0717df2b2d3b, type: 3}
+  - {fileID: 21300000, guid: d5b86a8c993c64849a2c0717df2b2d3b, type: 3}
+  descriptions: Equipment/Des.Crossbow
+  slot: 1
+  currency: 2
+  basePrice: 20
+  isSuper: 0
+  hpBase: 0
+  atkBase: 5
+  defBase: 0
+  critRateBase: 0
+  critDamageBase: 12
+  passiveSkill: 10
+  gradeSkills:
+  - {fileID: 11400000, guid: 964ec336c3ea0764790d027f4bdcddd9, type: 2}
+  - {fileID: 11400000, guid: 7e93183fb2f11d14e9ae748c0ac06ea6, type: 2}
+  - {fileID: 11400000, guid: 5c17bc07cf6e1ee4990aeb7de9e6ee61, type: 2}
+  - {fileID: 11400000, guid: 88d3ce37e91d32542a63a1589e3ed1d5, type: 2}
+  - {fileID: 11400000, guid: 034ce1a9408b73c45bf4cccf7af7871f, type: 2}

@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Spine
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8f0c241068b26cc4a8a16836b3775cd7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - b879be711d83e374e84793e5bc66dca8: 21300000
+    - 45e66aa25b99b6b4d8b9a6ca0dbb636f: 21300000
+    - 72885205ae393014689b61a47aff7a2f: 21300000
+    - 4cec8ca7152729e4a8fe749554c28cd6: 21300000
+    - 9c76b58861c7fd943ad0b038326feb6d: 21300000
+    - db0af6b8e5bfe334f9e4a1627d0dd3b3: 21300000
+    - 593745a9725b9e542b3972393645fffd: 21300000
+    - df1e671ad2cae624c90e5ee44f241377: 21300000
+    - 5510d88a15fbea544930058d98eccb63: 21300000
+    - 488edd7c6243d424f8e8306a524728ad: 21300000
+    - 934e429c50ede63419806cc77161da68: 21300000
+    - e527eecff286dc4448a24f936bda001a: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b879be711d83e374e84793e5bc66dca8, type: 3}
+  - {fileID: 21300000, guid: 45e66aa25b99b6b4d8b9a6ca0dbb636f, type: 3}
+  - {fileID: 21300000, guid: 72885205ae393014689b61a47aff7a2f, type: 3}
+  - {fileID: 21300000, guid: 4cec8ca7152729e4a8fe749554c28cd6, type: 3}
+  - {fileID: 21300000, guid: 9c76b58861c7fd943ad0b038326feb6d, type: 3}
+  - {fileID: 21300000, guid: db0af6b8e5bfe334f9e4a1627d0dd3b3, type: 3}
+  - {fileID: 21300000, guid: 593745a9725b9e542b3972393645fffd, type: 3}
+  - {fileID: 21300000, guid: df1e671ad2cae624c90e5ee44f241377, type: 3}
+  - {fileID: 21300000, guid: 5510d88a15fbea544930058d98eccb63, type: 3}
+  - {fileID: 21300000, guid: 488edd7c6243d424f8e8306a524728ad, type: 3}
+  - {fileID: 21300000, guid: 934e429c50ede63419806cc77161da68, type: 3}
+  - {fileID: 21300000, guid: e527eecff286dc4448a24f936bda001a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - main
+  - Boss-RedSpike
+  - Chest
+  - Boss-RedSpike-1
+  - Boss_Floater
+  - Wormer
+  - Weapon
+  - Chest
+  - Chest
+  - Boss2
+  - boss-thor
+  - Chest
+  m_RenderDataMap: {}
+  m_Tag: Atlas_Spine
+  m_IsVariant: 0

@@ -1,0 +1,3873 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: A fat butt bag of gold coin.
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\xFAi v\xE0ng r\xF5 to"
+      - A fat butt bag of gold coin.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Accept
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ch\u1EA5p Nh\u1EADn"
+      - Accept
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Advance Beam Drone
+      TermType: 0
+      Description: 
+      Languages:
+      - "Drone laser cao c\u1EA5p"
+      - Advance Beam Drone
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Afk max 16 hours
+      TermType: 0
+      Description: 
+      Languages:
+      - "Afk t\u1ED1i \u0111a 16 gi\u1EDD"
+      - Max 16 hour afk
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Alert
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\xF4ng B\xE1o"
+      - Alert
+      - Alert
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Apply
+      TermType: 0
+      Description: 
+      Languages:
+      - "X\xE1c Nh\u1EADn"
+      - Apply
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Are you sure Buy 15 Stamina
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EA1n c\xF3 ch\u1EAFc mua 15 Th\u1EC3 L\u1EF1c"
+      - Are you sure Buy 15 Stamina
+      - Are you sure Buy 15 Stamina
+      Flags: 000000
+      Languages_Touch: []
+    - Term: BANNER
+      TermType: 0
+      Description: 
+      Languages:
+      - Banner
+      - Banner
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Bag is Empty
+      TermType: 0
+      Description: 
+      Languages:
+      - "Kh\xF4ng c\xF3 item"
+      - Bag is Empty
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Big Fat Pack of Gem
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\xFAi ng\u1ECDc  kh\u1ED5ng l\u1ED3"
+      - Big Fat Pack of Gem
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Big Fat Red Pack of Gold
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\xFAi v\xE0ng kh\u1ED5ng l\u1ED3"
+      - Big Fat Red Pack of Gold
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Blaster
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\xFAng l\u1EE5c"
+      - Blaster
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Bounty increase
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng ti\u1EC1n th\u01B0\u1EDFng"
+      - Bounty increase
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Buy Fail
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mua Th\u1EA5t B\u1EA1i"
+      - Purchase Failed
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Buy Success
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mua Th\xE0nh C\xF4ng"
+      - Purchase Success
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: By Quality
+      TermType: 0
+      Description: 
+      Languages:
+      - "Theo ch\u1EA5t l\u01B0\u1EE3ng"
+      - By Quality
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: C-Saber
+      TermType: 0
+      Description: 
+      Languages:
+      - C-Saber
+      - C-Saber
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: COMMON
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\u01B0\u1EDDng"
+      - Common
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Cancel
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1EE7y"
+      - Cancel
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ch. Chest
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\u01B0\u1EDFng level"
+      - Stage Reward
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Chapter Chest
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\u01B0\u1EDFng level"
+      - Stage Reward
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Claim
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nh\u1EADn"
+      - Claim
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Claw
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\xF3ng Vu\u1ED1t"
+      - Claw
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Common
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\u01B0\u1EDDng"
+      - Common
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Common Gacha
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gacha th\u01B0\u1EDDng"
+      - Common Gacha
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Crossbow
+      TermType: 0
+      Description: 
+      Languages:
+      - "N\u1ECF"
+      - Crossbow
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Cybernetic agility
+      TermType: 0
+      Description: 
+      Languages:
+      - "nhanh nh\u1EB9n \u0111i\u1EC1u khi\u1EC3n h\u1ECDc"
+      - Cybernetic agility
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: DEFEAT
+      TermType: 0
+      Description: 
+      Languages:
+      - "TH\u1EA4T B\u1EA0I"
+      - DEFEATED
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Double Blaster
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\xFAng l\u1EE5c \u0111\xF4i"
+      - Double Blaster
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Dragon's Disciple
+      TermType: 0
+      Description: 
+      Languages:
+      - "Truy\u1EC1n nh\xE2n c\u1EE7a r\u1ED3ng"
+      - Dragon's Disciple
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Elite
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u01AFu T\xFA"
+      - Elite
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Elite +1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u01AFu T\xFA +1"
+      - Elite +1
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Elite +2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u01AFu T\xFA +2"
+      - Elite +2
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: 'Evo:'
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ti\u1EBFn h\xF3a: "
+      - 'Evo:'
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: 'Evol:'
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ti\u1EBFn H\xF3a:"
+      - 'Evol:'
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Exp Bonus
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\u01B0\u1EDFng kinh nghi\u1EC7m"
+      - Exp Bonus
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Fate's Favourite
+      TermType: 0
+      Description: 
+      Languages:
+      - "K\u1EBB may m\u1EAFn"
+      - Fate's Favourite
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Feral claw
+      TermType: 0
+      Description: 
+      Languages:
+      - "Vu\u1ED1t d\xE3 nh\xE2n"
+      - Feral claw
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Filter
+      TermType: 0
+      Description: 
+      Languages:
+      - "L\u1ECDc"
+      - Filter
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Finish
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ho\xE0n Th\xE0nh"
+      - Finish
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Flamethrower drone
+      TermType: 0
+      Description: 
+      Languages:
+      - "Robot phun l\u1EEDa"
+      - Fire drone
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Gacha
+      TermType: 0
+      Description: 
+      Languages:
+      - "R\u01B0\u01A1ng May M\u1EAFn"
+      - Gacha
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Gauss rifle
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110\u1EA1n n\u1EA3y"
+      - Gauss rifle
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Glacier Spike
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gai b\u0103ng"
+      - Glacier Spike
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Grenade launcher
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\xFAng ph\xF3ng l\u1EF1u"
+      - Grenade launcher
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ground Pound
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EADm \u0111\u1EA5t"
+      - Ground Pound
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: HP
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ch\u1EC9 S\u1ED1"
+      - Stat
+      - Stat
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Heal
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1ED3i m\xE1u"
+      - Heal
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Heavenly justice
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\u01B0a m\xE1y c\u1EA5p cao"
+      - Magnetic Saw
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Hypersonic Amunition
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110\u1EA1n Si\xEAu Thanh"
+      - Hypersonic Amunition
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Ice burn
+      TermType: 0
+      Description: 
+      Languages:
+      - "L\u1EEDa b\u0103ng"
+      - Ice burn
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Increase damage
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng"
+      - Increase damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Increase max HP
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng HP t\u1ED1i \u0111a"
+      - Increase max HP
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: K-Saber
+      TermType: 0
+      Description: 
+      Languages:
+      - K_Saber
+      - K-Saber
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Bounce.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110\u1EA1n b\u1EADt t\u01B0\u1EDDng. Thay \u0111\u1ED5i vector khi va
+        ch\u1EA1m"
+      - Change movement vector when collide with walls
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Bounce.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng \u0111\u1EA1n b\u1EAFn ra"
+      - Increase Bullet count
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Bounce.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng \u0111\u1EA1n b\u1EAFn ra"
+      - Increase Bullet count
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Bounce.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng \u0111\u1EA1n n\u1EA3y"
+      - Increase collision damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Bounce.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng \u0111\u1EA1n b\u1EAFn ra"
+      - Increase Bullet count
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Bounce.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110\u1EA1n g\xE2y n\u1ED5 khi va ch\u1EA1m"
+      - Bullet now explode on collision
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.BulletSpeed.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 \u0111\u1EA1n bay"
+      - Increase bullet velocity
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.BulletSpeed.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 \u0111\u1EA1n bay"
+      - Increase bullet velocity
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.BulletSpeed.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 \u0111\u1EA1n bay"
+      - Increase bullet velocity
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.BulletSpeed.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 \u0111\u1EA1n bay"
+      - Increase bullet velocity
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.BulletSpeed.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 \u0111\u1EA1n bay"
+      - Increase bullet velocity
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Claw.1
+      TermType: 0
+      Description: 
+      Languages:
+      - Key.Skill.Claw.1
+      - Key.Skill.Claw.1
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Claw.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng ph\u1EA1m vi t\u1EA5n c\xF4ng"
+      - Increase Slash angle
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Claw.3
+      TermType: 0
+      Description: 
+      Languages:
+      - Increase slash damage
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng m\xF3ng vu\u1ED1t"
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Claw.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng ph\u1EA1m vi t\u1EA5n c\xF4ng"
+      - Increase Slash angle
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Claw.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\u1EA3y m\xE1u"
+      - Increase bleed effect
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Claw.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\xE0o ch\xE9o 2 l\u1EA7n"
+      - Double Slasher
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Cooldown.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m th\u1EDDi gian h\u1ED3i chi\xEAu"
+      - Decrease ability cooldown
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Cooldown.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m th\u1EDDi gian h\u1ED3i chi\xEAu"
+      - Decrease ability cooldown
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Cooldown.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m th\u1EDDi gian h\u1ED3i chi\xEAu"
+      - Decrease ability cooldown
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Cooldown.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m th\u1EDDi gian h\u1ED3i chi\xEAu"
+      - Decrease ability cooldown
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Cooldown.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m th\u1EDDi gian h\u1ED3i chi\xEAu"
+      - Decrease ability cooldown
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.CrossBow.1
+      TermType: 0
+      Description: 
+      Languages:
+      - Key.Skill.CrossBow.1
+      - Key.Skill.CrossBow.1
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.CrossBow.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng t\xEAn"
+      - Increase bolt damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.CrossBow.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng t\xEAn b\u1EAFn ra"
+      - Increase loaded bolt count
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.CrossBow.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng t\xEAn"
+      - Increase bolt damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.CrossBow.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng t\xEAn b\u1EAFn ra"
+      - Increase loaded bolt count
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.CrossBow.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "N\u1ECF th\u1EA7n r\xF9a"
+      - Advance crossbow
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Damage.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng g\xE2y ra tr\xEAn \u0111\xF2n \u0111\xE1nh"
+      - Increase total damage output
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Damage.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng g\xE2y ra tr\xEAn \u0111\xF2n \u0111\xE1nh"
+      - Increase total damage output
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Damage.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng g\xE2y ra tr\xEAn \u0111\xF2n \u0111\xE1nh"
+      - Increase total damage output
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Damage.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng g\xE2y ra tr\xEAn \u0111\xF2n \u0111\xE1nh"
+      - Increase total damage output
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Damage.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng g\xE2y ra tr\xEAn \u0111\xF2n \u0111\xE1nh"
+      - Increase total damage output
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Defense.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m s\xE1t th\u01B0\u01A1ng nh\u1EADn v\u1EC1"
+      - Reduce incoming damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Defense.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m s\xE1t th\u01B0\u01A1ng nh\u1EADn v\u1EC1"
+      - Reduce incoming damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Defense.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m s\xE1t th\u01B0\u01A1ng nh\u1EADn v\u1EC1"
+      - Reduce incoming damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Defense.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m s\xE1t th\u01B0\u01A1ng nh\u1EADn v\u1EC1"
+      - Reduce incoming damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Defense.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m s\xE1t th\u01B0\u01A1ng nh\u1EADn v\u1EC1"
+      - Reduce incoming damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Drone.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "Tia laser h\u1ED9i t\u1EE5 n\u0103ng l\u01B0\u1EE3ng, \u0111\u1ED1t ch\xE1y
+        m\u1EE5c ti\xEAu"
+      - High-energy beam, able to ignite targets
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.DroneFire.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "Drone phun l\u1EEDa. \u0110\u1ED1t ch\xE1y m\u1EB7t \u0111\u1EA5t \u1EDF
+        ph\u1EA1m vi gi\u1EDBi h\u1EA1n"
+      - Flamethrower drone that burn the ground
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.DroneFire.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng hi\u1EC7u qu\u1EA3 l\u1EEDa ch\xE1y"
+      - Increase burning damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.DroneFire.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng di\u1EC7n t\xEDch b\u1EC1 m\u1EB7t b\u1ED1c ch\xE1y"
+      - Increase ignited surface
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.DroneFire.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng hi\u1EC7u qu\u1EA3 l\u1EEDa ch\xE1y"
+      - Increase burning damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.DroneFire.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng di\u1EC7n t\xEDch b\u1EC1 m\u1EB7t b\u1ED1c ch\xE1y"
+      - Increase ignited surface
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.DroneLaser.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "Drone laser. T\u1EA5n c\xF4ng xuy\xEAn m\u1EE5c ti\xEAu"
+      - Laser-emit drone with piercing attack
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.DroneLaser.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng tia laser"
+      - Increase beam penetration damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.DroneLaser.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng k\xEDch c\u1EE1 tia laser"
+      - Increase beam size
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.DroneLaser.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng tia laser"
+      - Increase beam penetration damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.DroneLaser.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng k\xEDch c\u1EE1 tia laser"
+      - Increase beam size
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Exp.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng Exp thu v\u1EC1"
+      - Increase Experience
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Exp.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng Exp thu v\u1EC1"
+      - Increase Experience
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Exp.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng Exp thu v\u1EC1"
+      - Increase Experience
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Exp.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng Exp thu v\u1EC1"
+      - Increase Experience
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Exp.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng Exp thu v\u1EC1"
+      - Increase Experience
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.FireIce.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nhi\u1EC7t \u0111\u1ED9 qu\xE1 th\u1EA5p c\xF3 th\u1EC3 g\xE2y b\u1ECFng
+        l\u1EA1nh"
+      - Ice burn is possible when exposed to extremely low temperature
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Gold.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng ti\u1EC1n thu v\u1EC1"
+      - Increase gold obtained
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Gold.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng ti\u1EC1n thu v\u1EC1"
+      - Increase gold obtained
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Gold.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng ti\u1EC1n thu v\u1EC1"
+      - Increase gold obtained
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Gold.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng ti\u1EC1n thu v\u1EC1"
+      - Increase gold obtained
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Gold.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng ti\u1EC1n thu v\u1EC1"
+      - Increase gold obtained
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.HP.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng m\xE1u t\u1ED1i \u0111a c\u1EE7a nh\xE2n v\u1EADt"
+      - Increase total health pool
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.HP.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng m\xE1u t\u1ED1i \u0111a c\u1EE7a nh\xE2n v\u1EADt"
+      - Increase total health pool
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.HP.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng m\xE1u t\u1ED1i \u0111a c\u1EE7a nh\xE2n v\u1EADt"
+      - Increase total health pool
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.HP.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng m\xE1u t\u1ED1i \u0111a c\u1EE7a nh\xE2n v\u1EADt"
+      - Increase total health pool
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.HP.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng m\xE1u t\u1ED1i \u0111a c\u1EE7a nh\xE2n v\u1EADt"
+      - Increase total health pool
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Heal.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1ED3i 10% m\xE1u"
+      - Heal 10% of max HP
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Ice.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gai b\u0103ng m\u1ECDc l\xEAn t\u1EEB l\xF2ng \u0111\u1EA5t"
+      - Ice spikes rise from underneath
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Ice.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng b\u0103ng g\xE2y ra"
+      - Increase freezing effect
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Ice.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\u1ED1 l\u01B0\u1EE3ng gai "
+      - Increase Ice spike density
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Ice.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng b\u0103ng g\xE2y ra"
+      - Increase freezing effect
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Ice.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\u1ED1 l\u01B0\u1EE3ng gai "
+      - Increase Ice spike density
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Katana.1
+      TermType: 0
+      Description: 
+      Languages:
+      - Key.Skill.Katana.1
+      - Key.Skill.Katana.1
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Katana.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng ph\u1EA1m vi ch\xE9m"
+      - Increase slash range
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Katana.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\xE9m"
+      - Increase slash damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Katana.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng ph\u1EA1m vi ch\xE9m"
+      - Increase slash range
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Katana.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\xE9m"
+      - Increase slash damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Katana.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ch\xE9m gi\xF3"
+      - Be like the wind
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Lightning.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\u1EC7 tinh t\u1EA5n c\xF4ng t\u1EEB qu\u1EF9 \u0111\u1EA1o"
+      - Laser strikes from low orbit satelite
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Lightning.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng laser"
+      - Increase Beam damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Lightning.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\u1ED1 l\u01B0\u1EE3t t\u1EA5n c\xF4ng"
+      - Increase Beam charge
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Lightning.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng laser"
+      - Increase Beam damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Lightning.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\u1ED1 l\u01B0\u1EE3t t\u1EA5n c\xF4ng"
+      - Increase Beam charge
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Lightning.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\xF4ng ngh\u1EC7 \u0111\xE3 cho ph\xE9p \u0111i\u1EC1u khi\u1EC3n th\u1EDDi
+        ti\u1EBFt"
+      - Weather manipulation technology is now available
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Magnet.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\xFAt c\xE1c v\u1EADt ph\u1EA9m \u1EDF b\xE1n k\xEDnh nh\u1EA5t \u0111\u1ECBnh"
+      - Attract nearby drops
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Magnet.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\xFAt c\xE1c v\u1EADt ph\u1EA9m \u1EDF b\xE1n k\xEDnh nh\u1EA5t \u0111\u1ECBnh"
+      - Attract nearby drops
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Magnet.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\xFAt c\xE1c v\u1EADt ph\u1EA9m \u1EDF b\xE1n k\xEDnh nh\u1EA5t \u0111\u1ECBnh"
+      - Attract nearby drops
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Magnet.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\xFAt c\xE1c v\u1EADt ph\u1EA9m \u1EDF b\xE1n k\xEDnh nh\u1EA5t \u0111\u1ECBnh"
+      - Attract nearby drops
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Magnet.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\xFAt c\xE1c v\u1EADt ph\u1EA9m \u1EDF b\xE1n k\xEDnh nh\u1EA5t \u0111\u1ECBnh"
+      - Attract nearby drops
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Meteor.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\xE0ng lo\u1EA1t thi\xEAn th\u1EA1ch r\u01A1i xu\u1ED1ng "
+      - Meteorites from space
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Meteor.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\xE0ng lo\u1EA1t thi\xEAn th\u1EA1ch r\u01A1i xu\u1ED1ng "
+      - Meteorites from space
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Meteor.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng thi\xEAn th\u1EA1ch"
+      - Increase meteor count
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Meteor.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng thi\xEAn th\u1EA1ch"
+      - Increase meteor count
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Meteor.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng thi\xEAn th\u1EA1ch"
+      - Increase meteor count
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.MoveSpeed.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n"
+      - Increase movement speed
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.MoveSpeed.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n"
+      - Increase movement speed
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.MoveSpeed.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n"
+      - Increase movement speed
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.MoveSpeed.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n"
+      - Increase movement speed
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.MoveSpeed.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n"
+      - Increase movement speed
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Nade.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EAFn ra l\u1EF1u \u0111\u1EA1n g\xE2y s\xE1t th\u01B0\u01A1ng l\u1EDBn"
+      - Launch a high explosive grenade
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Nade.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EAFn ra l\u1EF1u \u0111\u1EA1n g\xE2y s\xE1t th\u01B0\u01A1ng l\u1EDBn"
+      - Launch a high explosive grenade
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Nade.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EAFn ra l\u1EF1u \u0111\u1EA1n g\xE2y s\xE1t th\u01B0\u01A1ng l\u1EDBn"
+      - Launch a high explosive grenade
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Nade.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EAFn ra l\u1EF1u \u0111\u1EA1n g\xE2y s\xE1t th\u01B0\u01A1ng l\u1EDBn"
+      - Launch a high explosive grenade
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Nade.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EAFn ra l\u1EF1u \u0111\u1EA1n g\xE2y s\xE1t th\u01B0\u01A1ng l\u1EDBn"
+      - Launch a high explosive grenade
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Nade.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EAFn t\xEAn l\u1EEDa g\xE2y s\xE1t th\u01B0\u01A1ng l\u1EDBn"
+      - People used to hate this in COD
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Pistol.1
+      TermType: 0
+      Description: 
+      Languages:
+      - Key.Skill.Pistol.1
+      - Key.Skill.Pistol.1
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Pistol.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng \u0111\u1EA1n b\u1EAFn"
+      - Increase bullet shot
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Pistol.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng \u0111\u1EA1n b\u1EAFn"
+      - Increase bullet shot
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Pistol.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng \u0111\u1EA1n b\u1EAFn"
+      - Increase bullet shot
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Pistol.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng l\u01B0\u1EE3ng \u0111\u1EA1n b\u1EAFn"
+      - Increase bullet shot
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Pistol.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\u1EA5y m\xF9 m\u1EAFt"
+      - Shoot like a machinegun
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Quake.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\xE2y ch\u1EA5n \u0111\u1ED9ng m\u1EA1nh t\u1EA1o ra s\xE1t th\u01B0\u01A1ng"
+      - Strong impact that creates shockwave
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Quake.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\u1EA5n \u0111\u1ED9ng"
+      - Increase Impact damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Quake.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1EA7n su\u1EA5t ch\u1EA5n \u0111\u1ED9ng"
+      - Increase Shockwave count
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Quake.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng ph\u1EA1m vi \u1EA3nh h\u01B0\u1EDFng"
+      - Increase impact size
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Quake.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\u1EA5n \u0111\u1ED9ng"
+      - Increase Impact damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Quake.S
+      TermType: 0
+      Description: 
+      Languages:
+      - Key.Skill.Quake.S
+      - Key.Skill.Quake.S
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Saw.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "L\u01B0\u1EE1i c\u01B0a nhi\u1EC5m t\u1EEB bay xung quanh b\u1EA3n th\xE2n"
+      - Magnetized sawblade that rotates
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Saw.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng c\u01B0a"
+      - Improve saw performance
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Saw.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\u1ED1 l\u01B0\u1EE1i c\u01B0a"
+      - Increase saw blade count
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Saw.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng c\u01B0a"
+      - Improve saw performance
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Saw.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\u1ED1 l\u01B0\u1EE1i c\u01B0a"
+      - Increase saw blade count
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Saw.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "N\xE2ng c\u1EA5p hi\u1EC7u qu\u1EA3 di chuy\u1EC3n"
+      - Improve saw fomation
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Storm.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "Robot shock \u0111i\u1EC7n di chuy\u1EC3n ng\u1EABu nhi\xEAn tr\xEAn chi\u1EBFn
+        tr\u01B0\u1EDDng"
+      - Shock drone that moves randomly
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Storm.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng shock \u0111i\u1EC7n"
+      - Increase shock damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Storm.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng shock \u0111i\u1EC7n"
+      - Increase shock damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Storm.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng shock \u0111i\u1EC7n"
+      - Increase shock damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Storm.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng shock \u0111i\u1EC7n"
+      - Increase shock damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Storm.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng shock \u0111i\u1EC7n"
+      - Increase shock damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Sword.1
+      TermType: 0
+      Description: 
+      Languages:
+      - Key.Skill.Sword.1
+      - Key.Skill.Sword.1
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Sword.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\xE9m"
+      - Improve Slash damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Sword.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng \u0111\u01B0\u1EDDng ch\xE9m"
+      - Cut more time
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Sword.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\xE9m"
+      - Improve Slash damage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Sword.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng \u0111\u01B0\u1EDDng ch\xE9m"
+      - Cut more time
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Sword.S
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\xE3o ki\u1EBFm"
+      - Swordnado
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Yoyo.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "Boomerang c\u1EA3i ti\u1EBFn v\u1EDBi l\u01B0\u1EE1i c\u1EAFt"
+      - Boomerang with cutting edge modification
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Yoyo.2
+      TermType: 0
+      Description: 
+      Languages:
+      - Key.Skill.Yoyo.2
+      - Key.Skill.Yoyo.2
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Yoyo.3
+      TermType: 0
+      Description: 
+      Languages:
+      - Key.Skill.Yoyo.3
+      - Key.Skill.Yoyo.3
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Yoyo.4
+      TermType: 0
+      Description: 
+      Languages:
+      - Key.Skill.Yoyo.4
+      - Key.Skill.Yoyo.4
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Yoyo.5
+      TermType: 0
+      Description: 
+      Languages:
+      - Key.Skill.Yoyo.5
+      - Key.Skill.Yoyo.5
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Key.Skill.Yoyo.S
+      TermType: 0
+      Description: 
+      Languages:
+      - Key.Skill.Yoyo.S
+      - Key.Skill.Yoyo.S
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Laser Drone
+      TermType: 0
+      Description: 
+      Languages:
+      - Robot laser
+      - Laser Drone
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Legendary
+      TermType: 0
+      Description: 
+      Languages:
+      - "Huy\u1EC1n Tho\u1EA1i"
+      - Legendary
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Legendary +1
+      TermType: 0
+      Description: 
+      Languages:
+      - "Huy\u1EC1n Tho\u1EA1i +1"
+      - Legendary +1
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Legendary +2
+      TermType: 0
+      Description: 
+      Languages:
+      - "Huy\u1EC1n Tho\u1EA1i +2"
+      - Legendary +2
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Legendary +3
+      TermType: 0
+      Description: 
+      Languages:
+      - "Huy\u1EC1n Tho\u1EA1i +3"
+      - Legendary +3
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Lightning Strike
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\xE9t \u0111\xE1nh"
+      - Lightning Strike
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Magnetized
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nam ch\xE2m"
+      - Magnetized
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Merge
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gh\xE9p \u0110\u1ED3"
+      - Merge
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Meteorite
+      TermType: 0
+      Description: 
+      Languages:
+      - "Thi\xEAn th\u1EA1ch"
+      - Meteorite
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: More chapters, more earnings
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nhi\u1EC1u ch\u01B0\u01A1ng h\u01A1n, nhi\u1EC1u thu nh\u1EADp h\u01A1n"
+      - More chapters, more earnings
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: My Equipment
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\xFAi \u0110\u1ED3"
+      - My Bag
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Mythical
+      TermType: 0
+      Description: 
+      Languages:
+      - "Huy\u1EC1n tho\u1EA1i"
+      - Mythical
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Noob Tube
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\xFAng t\xEAn l\u1EEDa"
+      - Noob Tube
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Not Enough 15 Stamina
+      TermType: 0
+      Description: 
+      Languages:
+      - "Kh\xF4ng \u0110\u1EE7 15 Th\u1EC3 L\u1EF1c"
+      - Not Enough 15 Stamina
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Not Enough Gem
+      TermType: 0
+      Description: 
+      Languages:
+      - "Kh\xF4ng \u0110\u1EE7 \u0110\xE1 Qu\xFD"
+      - Not Enough Gem
+      - Not Enough Gem
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Not Enough Source Require
+      TermType: 0
+      Description: 
+      Languages:
+      - "Kh\xF4ng \u0110\u1EE7 T\xE0i Nguy\xEAn"
+      - Not Enough Material
+      - Not Enough Source Require
+      Flags: 000000
+      Languages_Touch: []
+    - Term: OK
+      TermType: 0
+      Description: 
+      Languages:
+      - "X\xE1c Nh\u1EADn"
+      - Ok
+      - OK
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Open +2
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nh\u1EADn +2"
+      - Open +2
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Open x1
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u1EDF x1"
+      - Open x1
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Open x10
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u1EDF x10"
+      - Open x10
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Orbital Cannon
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ph\xE1o v\u1EC7 tinh"
+      - Low Orbit Ion Cannon
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: PAUSE
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u1EA0M D\u1EEANG"
+      - PAUSE
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: PREMIUM
+      TermType: 0
+      Description: 
+      Languages:
+      - "Cao c\u1EA5p"
+      - Premium
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Patrol
+      TermType: 0
+      Description: 
+      Languages:
+      - "Tu\u1EA7n Tra"
+      - Patrol
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Pieces Collections
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1ED9 S\u01B0u T\u1EADp Mi\u1EBFng"
+      - Pieces Collections
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Play!
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EAFt \u0111\u1EA7u!"
+      - Play!
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Premium
+      TermType: 0
+      Description: 
+      Languages:
+      - "Cao C\u1EA5p"
+      - Premium
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Premium Gacha
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gacha Cao C\u1EA5p"
+      - Premium Gacha
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Psy Blade
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ki\u1EBFm n\u0103ng l\u01B0\u1EE3ng"
+      - Psy Blade
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Purchase Energy
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mua N\u0103ng L\u01B0\u1EE3ng"
+      - Purchase Energy
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: 'Quantity: 3 10'
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\u1ED1 l\u01B0\u1EE3ng: 3/10"
+      - 'Quantity: 3/10'
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: QuickEarnings
+      TermType: 0
+      Description: 
+      Languages:
+      - "Thu nh\u1EADp nhanh"
+      - QuickEarnings
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: REVIVE
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1ED2I SINH"
+      - REVIVE
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Rare
+      TermType: 0
+      Description: 
+      Languages:
+      - "Hi\u1EBFm"
+      - Rare
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Reduce cooldown
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m th\u1EDDi gian h\u1ED3i chi\xEAu"
+      - Reduce cooldown
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Refresh
+      TermType: 0
+      Description: 
+      Languages:
+      - Refresh
+      - Refresh
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Reinforced armor
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE1p c\u1ED1t th\xE9p"
+      - Reinforced armor
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: 'Remain :'
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\xF2n l\u1EA1i: "
+      - 'Remain: '
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Require Clear Level
+      TermType: 0
+      Description: 
+      Languages:
+      - "Y\xEAu c\u1EA7u ho\xE0n th\xE0nh level"
+      - Require Clear Chapter Level
+      - Require Clear Level
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Resume
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ti\u1EBFp t\u1EE5c"
+      - Resume
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Revival
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1ED3i Sinh"
+      - Revival
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Reward Video
+      TermType: 0
+      Description: 
+      Languages:
+      - "Video Th\u01B0\u1EDFng"
+      - Reward Video
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Saber
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ki\u1EBFm"
+      - Saber
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Saw Blade
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\u01B0a m\xE1y"
+      - Saw Blade
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Select a skill to learn
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ch\u1ECDn m\u1ED9t k\u1EF9 n\u0103ng \u0111\u1EC3 h\u1ECDc"
+      - Select a skill to learn
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Select equipment to merge!
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ch\u1ECDn trang b\u1ECB \u0111\u1EC3 th\u0103ng h\u1EA1ng!"
+      - Select equipment to merge!
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Skill Choice
+      TermType: 0
+      Description: 
+      Languages:
+      - "L\u1EF1a Ch\u1ECDn K\u1EF9 N\u0103ng"
+      - Skill Choice
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Skip
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ti\u1EBFp t\u1EE5c"
+      - Skip
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Spark Drone
+      TermType: 0
+      Description: 
+      Languages:
+      - "Robot s\xE9t"
+      - Spark Drone
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Spark Drone Mk2
+      TermType: 0
+      Description: 
+      Languages:
+      - "Robot s\xE9t c\u1EA5p cao"
+      - Spark Drone Mk2
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Standard
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ti\xEAu Chu\u1EA9n"
+      - Standard
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Success!
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\xE0nh C\xF4ng!"
+      - Success!
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Super Crossbow
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\xFAng b\u1EAFn t\xEAn"
+      - Bow Gun
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Supply Skill
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1ED7 tr\u1EE3"
+      - Support
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Tau Cannon
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ph\xE1o Tau"
+      - Tau Cannon
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "Ti\u1EBFn tr\xECnh c\u1EADp nh\u1EADt"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ti\u1EBFn tr\xECnh c\u1EADp nh\u1EADt..."
+      - Update progress...
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Uncommon
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\u1EA5t th\u01B0\u1EDDng"
+      - Uncommon
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Weapon Skill
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\u0169 kh\xED"
+      - Weapon
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: remaining
+      TermType: 0
+      Description: 
+      Languages:
+      - "c\xF2n l\u1EA1i"
+      - remaining
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: x3 Reward
+      TermType: 0
+      Description: 
+      Languages:
+      - "TH\u01AF\u1EDENG X3"
+      - X3 REWARD
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Collected Items
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nh\u1EADn th\u01B0\u1EDFng"
+      - Collected Items
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Notice
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\xF4ng b\xE1o"
+      - Notice
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: ChapterData/
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: ChapterData/des.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "R\u1EA5t nhi\u1EC1u zombie t\u1EA5n c\xF4ng th\xE0nh ph\u1ED1 Racoon ...."
+      - A lot of zombie attack to Racoon city ....
+      - A lot of zombie attack to Racoon city ....
+      Flags: 000000
+      Languages_Touch: []
+    - Term: ChapterData/des.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "R\u1EA5t nhi\u1EC1u zombie t\u1EA5n c\xF4ng th\xE0nh ph\u1ED1 Racoon ...."
+      - A lot of zombie attack to Racoon city ....
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: ChapterData/des.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u1ED9t chi\u1EC1u ho\xE0ng h\xF4n th\xE0nh ph\u1ED1 b\u1ECB t\u1EA5n c\xF4ng"
+      - A lot of zombie attack to City in Sunset
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: ChapterData/des.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u1ED9t chi\u1EC1u ho\xE0ng h\xF4n th\xE0nh ph\u1ED1 b\u1ECB t\u1EA5n c\xF4ng"
+      - A lot of zombie attack to City in Sunset
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: ChapterData/des.5
+      TermType: 0
+      Description: undefined
+      Languages:
+      - "5. Chi\u1EC1u T\xE0 "
+      - 5. Twilight
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: ChapterData/tit.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "1. Ban \u0111\u1EA7u"
+      - 1. In the Beginning
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: ChapterData/tit.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "1. Ban \u0111\u1EA7u 2"
+      - 1. In the Beginning seconds
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: ChapterData/tit.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "3. Ho\xE0ng H\xF4n 2"
+      - 3. Sunset 2
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: ChapterData/tit.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "4. Ho\xE0ng H\xF4n 3"
+      - 4. Sunset 3
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: 'Quantity: 1/1'
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\u1ED1 l\u01B0\u1EE3ng: 1/1"
+      - 'Limit: 1/1'
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Blaster
+      TermType: 0
+      Description: 
+      Languages:
+      - "S\xFAng l\u1EE5c th\xF4ng d\u1EE5ng"
+      - Standard-issue blaster
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Bounty Hunter Belt
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ai l\u01B0ng th\xF4ng d\u1EE5ng v\u1EDBi th\u1EE3 s\u0103n ti\u1EC1n
+        th\u01B0\u1EDFng"
+      - Common belt among bounty hunters
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Bounty Hunter Boots
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE0y th\xF4ng d\u1EE5ng v\u1EDBi th\u1EE3 s\u0103n ti\u1EC1n th\u01B0\u1EDFng"
+      - Common boots among bounty hunters
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Bounty Hunter Bulletproof vest
+      TermType: 0
+      Description: 
+      Languages:
+      - "\xC1o ch\u1ED1ng \u0111\u1EA1n th\xF4ng d\u1EE5ng v\u1EDBi th\u1EE3 s\u0103n
+        ti\u1EC1n th\u01B0\u1EDFng"
+      - Common bullet proof vest among bounty hunters
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Bounty Hunter Gloves
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\u0103ng tay th\xF4ng d\u1EE5ng v\u1EDBi th\u1EE3 s\u0103n ti\u1EC1n th\u01B0\u1EDFng"
+      - Common gloves among bounty hunters
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Bounty Hunter Mask
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u1EB7t n\u1EA1 th\xF4ng d\u1EE5ng v\u1EDBi th\u1EE3 s\u0103n ti\u1EC1n
+        th\u01B0\u1EDFng"
+      - Common gas mask among bounty hunters
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Claw
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\xF3ng vu\u1ED1t. Ph\xF9 h\u1EE3p v\u1EDBi nhi\u1EC7m v\u1EE5 \xE1m s\xE1t"
+      - Suitable for assassination mission
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Crossbow
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\u1EA7n gi\u1ED1ng s\xFAng, nh\u01B0ng im l\u1EB7ng"
+      - Similar to a sniper rifle, but silent
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Marine Balistic Vest
+      TermType: 0
+      Description: 
+      Languages:
+      - "\xC1o ch\u1ED1ng \u0111\u1EA1n d\xE0nh cho b\u1ED9 binh"
+      - Standard-issue balistic vest
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Marine Boots
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE0y d\xE0nh cho b\u1ED9 binh"
+      - Standard-issue marine boots
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Marine Combat Helmet
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u0169 gi\xE1p d\xE0nh cho b\u1ED9 binh"
+      - Standard-issue marine helmet
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Marine Gloves
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\u0103ng tay d\xE0nh cho b\u1ED9 binh"
+      - Standard-issue marine gloves
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Marine Utility Belt
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ai l\u01B0ng d\xE0nh cho b\u1ED9 binh"
+      - Standard-issue marine utility belt
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Police Belt
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\u1EAFt l\u01B0ng c\u1EA3nh s\xE1t"
+      - Protective police belt
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Police Boot
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE0y c\u1EA3nh s\xE1t"
+      - Protective police boots
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Police Glove
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\u0103ng tay c\u1EA3nh s\xE1t"
+      - Protective police gloves
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Police Helmet
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u0169 b\u1EA3o hi\u1EC3m c\u1EA3nh s\xE1t"
+      - Protective police helmet
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Police Kevlar
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE1p c\u1EA3nh s\xE1t"
+      - Protective police chest armor
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Sword
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ki\u1EBFm cong c\u01A1 b\u1EA3n"
+      - Basic curve single-edge sword
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.misc-EquipmentRandom
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p trang b\u1ECB ng\u1EABu nhi\xEAn"
+      - Random Upgrade chip
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.misc-PieceArmor
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p trang b\u1ECB ng\u1EABu nhi\xEAn"
+      - Des.misc-PieceArmor
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.misc-PieceBelt
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p cho \u0111ai l\u01B0ng"
+      - Des.misc-PieceBelt
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.misc-PieceBoots
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p cho gi\xE0y"
+      - Des.misc-PieceBoots
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.misc-PieceGloves
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p cho g\u0103ng tay"
+      - Des.misc-PieceGloves
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.misc-PieceHelmet
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p cho m\u0169"
+      - Des.misc-PieceHelmet
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.misc-PieceRandom
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p ng\u1EABu nhi\xEAn"
+      - Des.misc-PieceRandom
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.misc-PieceWeapon
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p cho v\u0169 kh\xED"
+      - Des.misc-PieceWeapon
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.misc-ticket-gacha-basic
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xE9 gacha - C\u01A1 b\u1EA3n"
+      - Gacha Ticket - Standard
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.misc-ticket-gacha-premium
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xE9 gacha - Cao c\u1EA5p"
+      - Gacha Ticket - Premium
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Blaster
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m h\u1ED3i chi\xEAu 5%"
+      - Reduce Cooldown 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Bounty Hunter Belt
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ai l\u01B0ng th\u1EE3 s\u0103n"
+      - Bounty Hunter Belt
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Bounty Hunter Boots
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE0y th\u1EE3 s\u0103n"
+      - Bounty Hunter Boots
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Bounty Hunter Bulletproof vest
+      TermType: 0
+      Description: 
+      Languages:
+      - "\xC1o gi\xE1p th\u1EE3 s\u0103n"
+      - Bounty Hunter Bulletproof vest
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Bounty Hunter Gloves
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\u0103ng tay th\u1EE3 s\u0103n"
+      - Bounty Hunter Gloves
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Bounty Hunter Mask
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u1EB7t n\u1EA1 th\u1EE3 s\u0103n"
+      - Bounty Hunter Mask
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Claw
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\xF3ng vu\u1ED1t"
+      - Claw
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Crossbow
+      TermType: 0
+      Description: 
+      Languages:
+      - "N\u1ECF"
+      - Crossbow
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Marine Balistic Vest
+      TermType: 0
+      Description: 
+      Languages:
+      - "\xC1o gi\xE1p b\u1ED9 binh"
+      - Marine Balistic Vest
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Marine Combat Helmet
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u0169 gi\xE1p b\u1ED9 binh"
+      - Marine Combat Helmet
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Marine Gloves
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\u0103ng tay b\u1ED9 binh"
+      - Marine Gloves
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Marine Utility Belt
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ai l\u01B0ng b\u1ED9 binh"
+      - Marine Utility Belt
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Police Belt
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ai l\u01B0ng c\u1EA3nh s\xE1t"
+      - Police Belt
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Police Boot
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE0y c\u1EA3nh s\xE1t"
+      - Police Boot
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Police Glove
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\u0103ng tay c\u1EA3nh s\xE1t"
+      - Police Glove
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Police Helmet
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u0169 b\u1EA3o h\u1ED9 c\u1EA3nh s\xE1t"
+      - Police Helmet
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Police Kevlar
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE1p c\u1EA3nh s\xE1t"
+      - Police Kevlar
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Sword
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ki\u1EBFm"
+      - Sword
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.misc-EquipmentRandom
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p - Trang b\u1ECB ng\u1EABu nhi\xEAn"
+      - Upgrade chip - Random Equipment
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.misc-PieceArmor
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p - \xC1o gi\xE1p"
+      - Upgrade chip - Armor
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.misc-PieceBelt
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p - \u0110ai l\u01B0ng"
+      - Upgrade chip - Belt
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.misc-PieceBoots
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p - Gi\xE0y"
+      - Upgrade chip - Boots
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.misc-PieceGloves
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p - G\u0103ng"
+      - Upgrade chip - Gloves
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.misc-PieceHelmet
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p - M\u0169"
+      - Upgrade chip - Helmet
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.misc-PieceRandom
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p - Ng\u1EABu nhi\xEAn"
+      - Upgrade chip - Random
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.misc-PieceWeapon
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip n\xE2ng c\u1EA5p - V\u0169 kh\xED"
+      - Upgrade chip - Weapon
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.misc-ticket-gacha-basic
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xE9 s\u1EED d\u1EE5ng \u0111\u1EC3 quay gacha c\u01A1 b\u1EA3n"
+      - Ticket for Standard gachapon
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.misc-ticket-gacha-premium
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xE9 s\u1EED d\u1EE5ng \u0111\u1EC3 quay gacha cao c\u1EA5p"
+      - Ticket for Premium gachapon
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.SentinelArmor
+      TermType: 0
+      Description: 
+      Languages:
+      - "\xC1o gi\xE1p v\u1EC7 binh"
+      - Sentinel Armor
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.SentinelArmor
+      TermType: 0
+      Description: 
+      Languages:
+      - "\xC1o gi\xE1p n\u1EB7ng d\xE0nh cho v\u1EC7 binh ho\xE0ng gia"
+      - Heavy armor designed for royal guards
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.SentinelBelt
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ai l\u01B0ng v\u1EC7 binh"
+      - Sentinel Belt
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.SentinelBelt
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ai l\u01B0ng n\u1EB7ng d\xE0nh cho v\u1EC7 binh ho\xE0ng gia"
+      - Heavy belt designed for royal guards
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.SentinelBoot
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE0y v\u1EC7 binh"
+      - Sentinel Boots
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.SentinelBoot
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE0y n\u1EB7ng d\xE0nh cho v\u1EC7 binh ho\xE0ng gia"
+      - Heavy boots designed for royal guards
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.SentinelGlove
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\u0103ng tay v\u1EC7 binh"
+      - Sentinel Gloves
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.SentinelGlove
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\u0103ng tay n\u1EB7ng d\xE0nh cho v\u1EC7 binh ho\xE0ng gia"
+      - Heavy gloves designed for royal guards
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.SentinelHelmet
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u0169 gi\xE1p v\u1EC7 binh"
+      - Sentinel Helmet
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.SentinelHelmet
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u0169 gi\xE1p n\u1EB7ng d\xE0nh cho v\u1EC7 binh ho\xE0ng gia"
+      - Heavy helmet designed for royal guards
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.TitanArmor
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE1p \xE1 th\u1EA7n"
+      - Demigod Armor
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.TitanArmor
+      TermType: 0
+      Description: 
+      Languages:
+      - "\xC1o Gi\xE1p x\u1EE9ng \u0111\xE1ng d\xE0nh cho \xE1 th\u1EA7n"
+      - Armor deemed worthy for the demigods
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.TitanBelt
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ai l\u01B0ng \xE1 th\u1EA7n"
+      - Demigod Belt
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.TitanBelt
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110ai l\u01B0ng x\u1EE9ng \u0111\xE1ng d\xE0nh cho \xE1 th\u1EA7n"
+      - Belt deemed worthy for the demigods
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.TitanBoot
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE0y \xE1 th\u1EA7n"
+      - Demigod Boots
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.TitanBoot
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\xE0y x\u1EE9ng \u0111\xE1ng d\xE0nh cho \xE1 th\u1EA7n"
+      - Boots deemed worthy for the demigods
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.TitanGlove
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\u0103ng \xE1 th\u1EA7n"
+      - Demigod Gloves
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.TitanGlove
+      TermType: 0
+      Description: 
+      Languages:
+      - "G\u0103ng tay x\u1EE9ng \u0111\xE1ng d\xE0nh cho \xE1 th\u1EA7n"
+      - Gloves deemed worthy for the demigods
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.TitanHelmet
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u0169 gi\xE1p \xE1 th\u1EA7n"
+      - Demigod Helmet
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.TitanHelmet
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\u0169 gi\xE1p x\u1EE9ng \u0111\xE1ng d\xE0nh cho \xE1 th\u1EA7n"
+      - Helmet deemed worthy for the demigods
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Tit.Katana
+      TermType: 0
+      Description: 
+      Languages:
+      - Katana
+      - Katana
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Equipment/Des.Katana
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ki\u1EBFm cong \u0111\u1EB7c tr\u01B0ng c\u1EE7a Nh\u1EADt b\u1EA3n"
+      - Unique curved-blade weapon from japan
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Atk.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng 5%"
+      - Increase Damage by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Atk.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng 5%"
+      - Increase Damage by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Atk.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng 5%"
+      - Increase Damage by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Atk.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng 5%"
+      - Increase Damage by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Atk.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng 10%"
+      - Increase Damage by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CD.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m h\u1ED3i chi\xEAu 5%"
+      - Reduce Cooldown 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CD.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m h\u1ED3i chi\xEAu 5%"
+      - Reduce Cooldown 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CD.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m h\u1ED3i chi\xEAu 5%"
+      - Reduce Cooldown 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CD.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m h\u1ED3i chi\xEAu 5%"
+      - Reduce Cooldown 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CD.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gi\u1EA3m h\u1ED3i chi\xEAu 5%"
+      - Reduce Cooldown 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CritDmg.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\xED m\u1EA1ng 5%"
+      - Increase Crit damage by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CritDmg.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\xED m\u1EA1ng 5%"
+      - Increase Crit damage by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CritDmg.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\xED m\u1EA1ng 5%"
+      - Increase Crit damage by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CritDmg.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\xED m\u1EA1ng 5%"
+      - Increase Crit damage by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CritDmg.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng s\xE1t th\u01B0\u01A1ng ch\xED m\u1EA1ng 10%"
+      - Increase Crit damage by 10%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CritRate.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1EF7 l\u1EC7 ch\xED m\u1EA1ng 3%"
+      - Increase Crit rate by 3%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CritRate.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1EF7 l\u1EC7 ch\xED m\u1EA1ng 3%"
+      - Increase Crit rate by 3%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CritRate.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1EF7 l\u1EC7 ch\xED m\u1EA1ng 3%"
+      - Increase Crit rate by 3%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CritRate.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1EF7 l\u1EC7 ch\xED m\u1EA1ng 3%"
+      - Increase Crit rate by 3%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/CritRate.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1EF7 l\u1EC7 ch\xED m\u1EA1ng 3%"
+      - Increase Crit rate by 3%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Def.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng gi\xE1p 5%"
+      - Increase Defense by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Def.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng gi\xE1p 5%"
+      - Increase Defense by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Def.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng gi\xE1p 5%"
+      - Increase Defense by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Def.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng gi\xE1p 5%"
+      - Increase Defense by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Def.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng gi\xE1p 10%"
+      - Increase Defense by 5%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Hp.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng m\xE1u t\u1ED1i \u0111a 10%"
+      - Increase max HP by 10%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Hp.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng m\xE1u t\u1ED1i \u0111a 10%"
+      - Increase max HP by 10%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Hp.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng m\xE1u t\u1ED1i \u0111a 10%"
+      - Increase max HP by 10%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Hp.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng m\xE1u t\u1ED1i \u0111a 10%"
+      - Increase max HP by 10%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Hp.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng m\xE1u t\u1ED1i \u0111a 15%"
+      - Increase max HP by 10%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/MoveSpd.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n 3%"
+      - Increase movement speed by 3%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/MoveSpd.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n 3%"
+      - Increase movement speed by 3%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/MoveSpd.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n 3%"
+      - Increase movement speed by 3%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/MoveSpd.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n 3%"
+      - Increase movement speed by 3%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/MoveSpd.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "T\u0103ng t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n 3%"
+      - Increase movement speed by 3%
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Claw.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng m\xF3ng vu\u1ED1t"
+      - Skill +1 to Claw
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Claw.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng m\xF3ng vu\u1ED1t"
+      - Skill +1 to Claw
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Claw.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng m\xF3ng vu\u1ED1t"
+      - Skill +1 to Claw
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Claw.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng m\xF3ng vu\u1ED1t"
+      - Skill +1 to Claw
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Claw.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng m\xF3ng vu\u1ED1t"
+      - Skill +1 to Claw
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.CrossBow.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng n\u1ECF"
+      - Skill +1 to Crossbow
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.CrossBow.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng n\u1ECF"
+      - Skill +1 to Crossbow
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.CrossBow.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng n\u1ECF"
+      - Skill +1 to Crossbow
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.CrossBow.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng n\u1ECF"
+      - Skill +1 to Crossbow
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.CrossBow.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng n\u1ECF"
+      - Skill +1 to Crossbow
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Pistol.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng s\xFAng l\u1EE5c"
+      - Skill +1 to Pistol
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Pistol.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng s\xFAng l\u1EE5c"
+      - Skill +1 to Pistol
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Pistol.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng s\xFAng l\u1EE5c"
+      - Skill +1 to Pistol
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Pistol.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng s\xFAng l\u1EE5c"
+      - Skill +1 to Pistol
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Pistol.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng s\xFAng l\u1EE5c"
+      - Skill +1 to Pistol
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Sword.1
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng ki\u1EBFm"
+      - Skill +1 to Saber
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Sword.2
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng ki\u1EBFm"
+      - Skill +1 to Saber
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Sword.3
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng ki\u1EBFm"
+      - Skill +1 to Saber
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Sword.4
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng ki\u1EBFm"
+      - Skill +1 to Saber
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentOp/Skill.Sword.5
+      TermType: 0
+      Description: 
+      Languages:
+      - "+1 k\u1EF9 n\u0103ng ki\u1EBFm"
+      - Skill +1 to Saber
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/AccExp
+      TermType: 0
+      Description: 
+      Languages:
+      - "Kinh nghi\u1EC7m"
+      - Account Exp
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/Ds-Armor
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip- \xC1o gi\xE1p"
+      - Chip- Armor
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/Ds-Belt
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip- \u0110ai l\u01B0ng"
+      - Chip- Belt
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/Ds-Boots
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip- Gi\xE0y"
+      - Chip- Boots
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/Ds-Gloves
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip- G\u0103ng tay"
+      - Chip- Gloves
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/Ds-Helmet
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip- M\u0169"
+      - Chip- Helmet
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/Ds-Weapon
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip- V\u0169 kh\xED"
+      - Chip- Weapon
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/Gem
+      TermType: 0
+      Description: 
+      Languages:
+      - "Kim C\u01B0\u01A1ng"
+      - Gem
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/Gold
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xE0ng"
+      - Gold
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/Rd-Equipment
+      TermType: 0
+      Description: 
+      Languages:
+      - "Trang b\u1ECB ng\u1EABu nhi\xEAn"
+      - Random Equipment
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/Rd-Piece
+      TermType: 0
+      Description: 
+      Languages:
+      - "Chip ng\u1EABu nhi\xEAn"
+      - Lucky Piece
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/Stamina
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\u1EC3 L\u1EF1c"
+      - Stamina
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/TokenChallenge
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xE9 th\u1EED th\xE1ch"
+      - Challenge Token
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/VideoAds
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nh\u1EADn th\u01B0\u1EDFng qu\u1EA3ng c\xE1o"
+      - Video Reward Ads
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Currency/ticket-gacha-super
+      TermType: 0
+      Description: 
+      Languages:
+      - "V\xE9 gacha - \u0110\u1EB7c bi\u1EC7t"
+      - Gacha Ticket - Special
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentInfo/Equip
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u0110eo \u0110\u1ED3"
+      - Equip
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentInfo/Levelup
+      TermType: 0
+      Description: 
+      Languages:
+      - "N\xE2ng C\u1EA5p"
+      - Level Up
+      - Level Up
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentInfo/MaxLevel
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\u1EA5p t\u1ED1i \u0111a"
+      - Max Level
+      - Max Level
+      Flags: 000000
+      Languages_Touch: []
+    - Term: EquipmentInfo/Unequip
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\xE1o \u0110\u1ED3"
+      - Unequip
+      - Unequip
+      Flags: 000000
+      Languages_Touch: []
+    - Term: PopupMerge/MaxLevel
+      TermType: 0
+      Description: 
+      Languages:
+      - "C\u1EA5p t\u1ED1i \u0111a"
+      - Max Level
+      - Max Level
+      Flags: 000000
+      Languages_Touch: []
+    - Term: PopupMerge/MergeAll
+      TermType: 0
+      Description: 
+      Languages:
+      - "H\u1EE3p Nh\u1EA5t T\u1EA5t C\u1EA3"
+      - Merge All
+      - Merge All
+      Flags: 000000
+      Languages_Touch: []
+    - Term: PopupMerge/SpecialItem
+      TermType: 0
+      Description: 
+      Languages:
+      - "--V\u1EADt Ph\u1EA9m \u0110\u1EB7c Bi\u1EC7t--"
+      - --Special Items--
+      - --Special Items--
+      Flags: 000000
+      Languages_Touch: []
+    - Term: PopupMerge/Success
+      TermType: 0
+      Description: 
+      Languages:
+      - "Th\xE0nh C\xF4ng!"
+      - Success!
+      - Success!
+      Flags: 000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: Vietnamese
+      Code: vi
+      Flags: 0
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Description
+      Code: 
+      Flags: 0
+    IgnoreDeviceLanguage: 1
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbzNifV38cGmTwWAuuP8w6NLiw0LYN3ROLAX-6bLF3iy-F1vpQ5xIdv2IBJ8z9CT9Rkz/exec
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: I2Loc Survivor IO Localization
+    Google_LastUpdatedVersion: 1678877257507
+    Google_Password: 
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: SurvivorIO_Localization.csv
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1

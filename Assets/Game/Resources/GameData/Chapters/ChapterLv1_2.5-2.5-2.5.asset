@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2324939be134345478ef926b60975333, type: 3}
+  m_Name: ChapterLv1_2.5-2.5-2.5
+  m_EditorClassIdentifier: 
+  id: ce01fa64-69be-44f6-8d23-0049e0a24129
+  icon: {fileID: 21300000, guid: bb8cc83b303c31547a9e332582f0c6f6, type: 3}
+  bg: {fileID: 21300000, guid: 878fcac05e912264dbcf3a0366a222bf, type: 3}
+  level: 2
+  timePlay: 302
+  title: The Sunset 2
+  des: Zombie attack Racoon City
+  afkEarningGoldPerMin: 60
+  afkEarningExpPerMin: 15
+  afkEarningPieceUpgradePerMin: 0.1
+  afkEarningItemPerMin: 0.01
+  rewards:
+  - currency: 1
+    number: 5000
+  - currency: 4
+    number: 100
+  - currency: 100
+    number: 1
+  - currency: 86
+    number: 3
+  - currency: 87
+    number: 1
+  chapterChests:
+  - idChest: 201
+    description: Survive the first boss
+    timeSurvive: 181
+    currencyReward:
+      currency: 2
+      number: 100
+  - idChest: 202
+    description: Survive the second boss
+    timeSurvive: 361
+    currencyReward:
+      currency: 2
+      number: 200
+  waves:
+  - {fileID: 11400000, guid: c0a65cacad4d33c419bfebe8a4285fcb, type: 2}
+  - {fileID: 11400000, guid: 72c60183ffb655647bfe1e58915f8042, type: 2}
+  - {fileID: 11400000, guid: d770e8a53ae8dfc42a0cc260e9b2b5b2, type: 2}
+  - {fileID: 11400000, guid: 71e8d47f302e24147a61fcab98944cc7, type: 2}
+  - {fileID: 11400000, guid: a7e0080faea7dfa4cb9f8b54505483a2, type: 2}
+  - {fileID: 11400000, guid: 676b1ad977360774d8a03bd003e22efc, type: 2}
+  - {fileID: 11400000, guid: c69635c66057f0b4c81c9687c1893091, type: 2}
+  - {fileID: 11400000, guid: 4b4a186b96cc0844eba8f00aad71af7b, type: 2}
+  - {fileID: 11400000, guid: 435c3b10d23d34d4983ce723b71a06c1, type: 2}
+  - {fileID: 11400000, guid: ba77318f7a51bcb4c99393bf6044f515, type: 2}
+  - {fileID: 11400000, guid: cf9fad692bc38fa4c8d2d58af973af64, type: 2}
+  - {fileID: 11400000, guid: d53e6e60bad142941bc52d5caed05428, type: 2}
+  miniBoss:
+  - {fileID: 11400000, guid: 57d75b22301dc94428a732b7e4497a3d, type: 2}
+  - {fileID: 11400000, guid: 37c28e294d74f0e4f82ecf662748b380, type: 2}
+  - {fileID: 11400000, guid: 2b915329183de214a9f33ff40bbdb862, type: 2}
+  listBoss:
+  - {fileID: 11400000, guid: 85df72f3c1ec3174187c3266c82a2361, type: 2}
+  - {fileID: 11400000, guid: 1d4279ab49587054c9646985a6650104, type: 2}
+  - {fileID: 11400000, guid: 97ea6e3e4784e324b80c294dec9c5471, type: 2}

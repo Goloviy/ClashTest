@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Missile
+  - Exp1
+  - Exp2
+  - Exp3
+  - Magnet
+  - Bomb
+  - Meat
+  - Kunai
+  - GravityField
+  - Shield
+  - Lightning
+  - BottleGas
+  - Brick
+  - Boomerang
+  - Drill
+  - Ball
+  - Shotgun
+  - Katana
+  - KatanaS
+  - KatanaLightning
+  - KatanaLightningS
+  - BoxGacha
+  - BirdCage
+  - Knife
+  - KnifeS
+  - KunaiS
+  - GrenadeS
+  - Grenade
+  - Rocket
+  - LightningS
+  - DrillS
+  - Yoyo
+  - YoyoS
+  - ShieldS
+  - ShieldS_2
+  - SonicBoom
+  - SonicBoomS
+  - Storm
+  - StormS
+  - Laser
+  - LaserS
+  - RainIce
+  - RainFire
+  - DoctorStrange
+  - DoctorStrange2
+  - StormS_Tick
+  - Claw
+  - Claw_S
+  - Gold
+  - Gold2
+  - Gold3
+  - MonsterAttack
+  - FireBall
+  - BoxGachaRV
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PBullet
+  - Player
+  - MBullet
+  - Monster
+  - Collector
+  - Item
+  - ItemS
+  - CollectorS
+  - Wall
+  - Boss
+  - Shield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416112af7fe80d24fa191da568bee29c, type: 3}
+  m_Name: 2.Wave_3.4
+  m_EditorClassIdentifier: 
+  id: b2320a25-9094-464e-b0e6-437072115d96
+  isWarning: 0
+  timeInterval: 1
+  timeStart: 470
+  timeEnd: 540
+  minDistance: 8
+  deltaDistance: 1
+  containers:
+  - spawnCount: 35
+    monsterSetting: {fileID: 11400000, guid: 3d07e1a6b41a54246a2c245f94f6c6f2, type: 2}
+  - spawnCount: 5
+    monsterSetting: {fileID: 11400000, guid: b2cbfc2f38f11b048b15bfd6ba7af22d, type: 2}

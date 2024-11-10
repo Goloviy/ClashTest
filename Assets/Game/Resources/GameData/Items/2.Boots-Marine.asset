@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 899dd5aaf08239347bbd736ab5525dad, type: 3}
+  m_Name: 2.Boots-Marine
+  m_EditorClassIdentifier: 
+  id: c4dda002-1bed-442e-addb-e98c9554fb54
+  title: Marine Boots
+  spriteIcons:
+  - {fileID: 21300000, guid: 9213572b520fe564986a51a199b3a983, type: 3}
+  - {fileID: 21300000, guid: 9213572b520fe564986a51a199b3a983, type: 3}
+  - {fileID: 21300000, guid: 9213572b520fe564986a51a199b3a983, type: 3}
+  - {fileID: 21300000, guid: e084ad1d20e22874c93efa2e22fbad08, type: 3}
+  - {fileID: 21300000, guid: e084ad1d20e22874c93efa2e22fbad08, type: 3}
+  - {fileID: 21300000, guid: e084ad1d20e22874c93efa2e22fbad08, type: 3}
+  - {fileID: 21300000, guid: e084ad1d20e22874c93efa2e22fbad08, type: 3}
+  - {fileID: 21300000, guid: e084ad1d20e22874c93efa2e22fbad08, type: 3}
+  - {fileID: 21300000, guid: e084ad1d20e22874c93efa2e22fbad08, type: 3}
+  - {fileID: 21300000, guid: e084ad1d20e22874c93efa2e22fbad08, type: 3}
+  - {fileID: 21300000, guid: e084ad1d20e22874c93efa2e22fbad08, type: 3}
+  descriptions: Equipment/Des.Marine Boots
+  slot: 5
+  currency: 2
+  basePrice: 20
+  isSuper: 0
+  hpBase: 15
+  atkBase: 0
+  defBase: 0
+  critRateBase: 0
+  critDamageBase: 0
+  passiveSkill: 0
+  gradeSkills:
+  - {fileID: 11400000, guid: f53a472b119d63747b092eefdaaaa010, type: 2}
+  - {fileID: 11400000, guid: bdb972734f74ea74b8bfcc28817d924c, type: 2}
+  - {fileID: 11400000, guid: c56041a9664442f41b71cc2af171aa6e, type: 2}
+  - {fileID: 11400000, guid: 20cafbdc17757bd4191727914394ba26, type: 2}
+  - {fileID: 11400000, guid: 1fae36cc96c492948a1d6b9597350839, type: 2}

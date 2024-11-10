@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c50d061f52d640d45abf004bc38f17bb, type: 3}
+  m_Name: ticket-Gacha-premium
+  m_EditorClassIdentifier: 
+  id: 87577dac-75d2-4593-bb5b-b2764ccac5cf
+  title: Ticket Premium
+  currency: 101
+  icon: {fileID: 21300000, guid: eca557eb36a3bb843867ab1e57729af0, type: 3}
+  rarity: 3
+  isShowInBag: 1
+  modelId: dd11a7f1-0732-4eb6-be30-4250bbd6872d

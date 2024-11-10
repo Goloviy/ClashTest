@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 899dd5aaf08239347bbd736ab5525dad, type: 3}
+  m_Name: 5.Helmet-Sentinel
+  m_EditorClassIdentifier: 
+  id: b0324dbd-a60c-4e31-b0d0-5d225fdbebb2
+  title: Sentinel Equipment
+  spriteIcons:
+  - {fileID: 21300000, guid: 622d6cd43d977be4b8a4c17135f7d6c9, type: 3}
+  - {fileID: 21300000, guid: 622d6cd43d977be4b8a4c17135f7d6c9, type: 3}
+  - {fileID: 21300000, guid: 622d6cd43d977be4b8a4c17135f7d6c9, type: 3}
+  - {fileID: 21300000, guid: 5119359fb18d9ad4681a0f5abd8ccdbc, type: 3}
+  - {fileID: 21300000, guid: 5119359fb18d9ad4681a0f5abd8ccdbc, type: 3}
+  - {fileID: 21300000, guid: 5119359fb18d9ad4681a0f5abd8ccdbc, type: 3}
+  - {fileID: 21300000, guid: 5119359fb18d9ad4681a0f5abd8ccdbc, type: 3}
+  - {fileID: 21300000, guid: 5119359fb18d9ad4681a0f5abd8ccdbc, type: 3}
+  - {fileID: 21300000, guid: 5119359fb18d9ad4681a0f5abd8ccdbc, type: 3}
+  - {fileID: 21300000, guid: 5119359fb18d9ad4681a0f5abd8ccdbc, type: 3}
+  - {fileID: 21300000, guid: 5119359fb18d9ad4681a0f5abd8ccdbc, type: 3}
+  descriptions: Sentinel Equipment
+  slot: 3
+  currency: 2
+  basePrice: 20
+  isSuper: 0
+  hpBase: 15
+  atkBase: 0
+  defBase: 1
+  critRateBase: 0
+  critDamageBase: 0
+  passiveSkill: 0
+  gradeSkills:
+  - {fileID: 11400000, guid: 036d89f96d097c94e9632ee5a2f0f546, type: 2}
+  - {fileID: 11400000, guid: 279358043eb6cf649b38e0d909443fc3, type: 2}
+  - {fileID: 11400000, guid: 44b35c6ad1b29f84485b7c4c2ee25f59, type: 2}
+  - {fileID: 11400000, guid: 6af176df425c3494db59aeb4d71d869d, type: 2}
+  - {fileID: 11400000, guid: f3fed8653c60c4c4ea86a57c983d4c95, type: 2}

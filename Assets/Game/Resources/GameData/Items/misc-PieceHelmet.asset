@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a768f687d75d94447856c7dff458c5f9, type: 3}
+  m_Name: misc-PieceHelmet
+  m_EditorClassIdentifier: 
+  id: 902beb59-a227-42e3-9e08-74ebdffadcb5
+  title: PieceHelmet
+  spriteIcons:
+  - {fileID: 21300000, guid: a76b37ad15eb7e34abeb1c5282edc855, type: 3}
+  descriptions: Upgrade materials
+  slot: 0
+  currency: 0
+  basePrice: 0

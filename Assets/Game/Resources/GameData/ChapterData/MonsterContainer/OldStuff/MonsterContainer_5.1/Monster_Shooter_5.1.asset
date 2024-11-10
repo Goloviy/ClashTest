@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5aaa93c9bdf3374bacc2d97b6eb92e1, type: 3}
+  m_Name: Monster_Shooter_5.1
+  m_EditorClassIdentifier: 
+  id: 692c276e-be00-4d16-8a2b-c459985d1bec
+  idMonster: 102
+  hp: 300
+  atk: 18
+  mSpeed: 1
+  PrefabMonster: {fileID: 1770245336440906390, guid: 990d5f860f70a90428bd02d49ce1446f, type: 3}
+  dropBox:
+  - percent: 100
+    prefabItem: {fileID: 279967685929018096, guid: 2be52c17b954a1f4d8a3c8a5cb07d7bb, type: 3}

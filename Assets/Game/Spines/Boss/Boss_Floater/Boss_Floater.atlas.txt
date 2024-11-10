@@ -1,0 +1,25 @@
+Boss_Floater.png
+	size: 1116, 1116
+	filter: Linear, Linear
+	pma: true
+AM
+	bounds: 0, 398, 386, 295
+BD_Bot
+	bounds: 386, 435, 415, 258
+BD_Top
+	bounds: 0, 693, 552, 420
+BS
+	bounds: 856, 665, 257, 448
+BS_AC
+	bounds: 386, 115, 320, 471
+	offsets: 37, 0, 357, 471
+	rotate: 90
+Eye
+	bounds: 0, 330, 65, 68
+HD
+	bounds: 801, 406, 280, 259
+HD_AC
+	bounds: 551, 693, 407, 305
+	rotate: 90
+nose
+	bounds: 0, 713, 36, 37

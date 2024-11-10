@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5aaa93c9bdf3374bacc2d97b6eb92e1, type: 3}
+  m_Name: Monster_Runner_4.3
+  m_EditorClassIdentifier: 
+  id: 4cb44d57-7fe6-41ea-95dd-9a307997b109
+  idMonster: 103
+  hp: 240
+  atk: 8
+  mSpeed: 4
+  PrefabMonster: {fileID: 861655120582093427, guid: e38a057f520d918459d1ab7336a55b11, type: 3}
+  dropBox:
+  - percent: 100
+    prefabItem: {fileID: 279967685929018096, guid: 2be52c17b954a1f4d8a3c8a5cb07d7bb, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a768f687d75d94447856c7dff458c5f9, type: 3}
+  m_Name: designBoots
+  m_EditorClassIdentifier: 
+  id: e36bbe36-6c75-4cbc-9f24-e68c9d2f3214
+  title: Design Boots
+  spriteIcon: {fileID: 21300000, guid: 23621c1b8a200414eae54c197f76e11a, type: 3}
+  descriptions: Recipe use to enchant equipment
+  slot: 5
+  currency: 1
+  basePrice: 1000

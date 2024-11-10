@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameplaySprite
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 17ff4f728ba1d7540945a796b6b3c923, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 5a58f821db724c34bbe116fe42444f00: 21300000
+    - 596cbe513fbf92b419e4384d9f41de48: 21300000
+    - 8160c6713c5f1534db602afefce072ff: 21300000
+    - 84cf348146c0e524ea66e053408ed216: 21300000
+    - 55f16ac1bfb145540b3b42dc3bb5999e: 21300000
+    - c26aace121dce894aacfe73d1b0273d4: 21300000
+    - b64c57b277f5db24eae014b09315ee12: 21300000
+    - c9bea6c384a192b4689c34cd06f6059a: 21300000
+    - 59b10824f6159d54fa1562a0940c9244: 21300000
+    - 664cc8a467a7cda47afa6a51dbf98723: 21300000
+    - 85574505b0e442a40a3e18ec3689a5b7: 21300000
+    - 2082563552fba1845a38c4800e909625: 21300000
+    - 7edba765b76920c40a7b102503d56ed8: 21300000
+    - 27b37ed5cdaacab4bb103e52cd66bc15: 21300000
+    - 06601467b12bd1d469c803b46ff84a73: 21300000
+    - 1dcea128c46a47847a87a8c4d2b26c02: 21300000
+    - 98856a783034a3146b758cf3300fd328: 21300000
+    - 8043e7a87fc6164458e3accabf84e441: 21300000
+    - 3e5691c893d45564ba87fd2f36bbda0c: 21300000
+    - cd781109665bdad4faaf16adfdb04705: 21300000
+    - 7d47bd293a476d84097fea7fd88b6110: 21300000
+    - bdd97b397caf7bc42b59a3a16c651d12: 21300000
+    - 5dd778891803ebe41b69e7230fdf2423: 21300000
+    - b98903f9ed8b1a14d9428863f4f62ab3: 21300000
+    - 9b57a73a382a1194592b27c21b5d11a7: 21300000
+    - 847c127a55f850c4cbfad22e385f653c: 21300000
+    - 24d2859a7e45c9b49a12d445f3a7a65e: 21300000
+    - c2dace4b2cd24cd4183afd32dc7822a7: 21300000
+    - b8054debb3f1efc40a900f0b1c956b6a: 21300000
+    - 2533807d3e827be4e925a622fa3a3ed2: 21300000
+    - 79bcba4f073942f4b998b126605d1132: 21300000
+    - a5a2788f44e4f474e9cc372f1e87df57: 21300000
+    - 3e945a9f8b6fa284a8532bf9035fccca: 21300000
+    - 27cb30af80f80cf45b0114ef09cf341a: 21300000
+    - b1ae2bbfafeb3134d979ef3b7f4f49a4: 21300000
+    - 99f00dbf35ad4f74d96cd8c8ae37e150: 21300000
+    - 5faf2eefb2661604d95b35cf994768ec: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5a58f821db724c34bbe116fe42444f00, type: 3}
+  - {fileID: 21300000, guid: 596cbe513fbf92b419e4384d9f41de48, type: 3}
+  - {fileID: 21300000, guid: 8160c6713c5f1534db602afefce072ff, type: 3}
+  - {fileID: 21300000, guid: 84cf348146c0e524ea66e053408ed216, type: 3}
+  - {fileID: 21300000, guid: 55f16ac1bfb145540b3b42dc3bb5999e, type: 3}
+  - {fileID: 21300000, guid: c26aace121dce894aacfe73d1b0273d4, type: 3}
+  - {fileID: 21300000, guid: b64c57b277f5db24eae014b09315ee12, type: 3}
+  - {fileID: 21300000, guid: c9bea6c384a192b4689c34cd06f6059a, type: 3}
+  - {fileID: 21300000, guid: 59b10824f6159d54fa1562a0940c9244, type: 3}
+  - {fileID: 21300000, guid: 664cc8a467a7cda47afa6a51dbf98723, type: 3}
+  - {fileID: 21300000, guid: 85574505b0e442a40a3e18ec3689a5b7, type: 3}
+  - {fileID: 21300000, guid: 2082563552fba1845a38c4800e909625, type: 3}
+  - {fileID: 21300000, guid: 7edba765b76920c40a7b102503d56ed8, type: 3}
+  - {fileID: 21300000, guid: 27b37ed5cdaacab4bb103e52cd66bc15, type: 3}
+  - {fileID: 21300000, guid: 06601467b12bd1d469c803b46ff84a73, type: 3}
+  - {fileID: 21300000, guid: 1dcea128c46a47847a87a8c4d2b26c02, type: 3}
+  - {fileID: 21300000, guid: 98856a783034a3146b758cf3300fd328, type: 3}
+  - {fileID: 21300000, guid: 8043e7a87fc6164458e3accabf84e441, type: 3}
+  - {fileID: 21300000, guid: 3e5691c893d45564ba87fd2f36bbda0c, type: 3}
+  - {fileID: 21300000, guid: cd781109665bdad4faaf16adfdb04705, type: 3}
+  - {fileID: 21300000, guid: 7d47bd293a476d84097fea7fd88b6110, type: 3}
+  - {fileID: 21300000, guid: bdd97b397caf7bc42b59a3a16c651d12, type: 3}
+  - {fileID: 21300000, guid: 5dd778891803ebe41b69e7230fdf2423, type: 3}
+  - {fileID: 21300000, guid: b98903f9ed8b1a14d9428863f4f62ab3, type: 3}
+  - {fileID: 21300000, guid: 9b57a73a382a1194592b27c21b5d11a7, type: 3}
+  - {fileID: 21300000, guid: 847c127a55f850c4cbfad22e385f653c, type: 3}
+  - {fileID: 21300000, guid: 24d2859a7e45c9b49a12d445f3a7a65e, type: 3}
+  - {fileID: 21300000, guid: c2dace4b2cd24cd4183afd32dc7822a7, type: 3}
+  - {fileID: 21300000, guid: b8054debb3f1efc40a900f0b1c956b6a, type: 3}
+  - {fileID: 21300000, guid: 2533807d3e827be4e925a622fa3a3ed2, type: 3}
+  - {fileID: 21300000, guid: 79bcba4f073942f4b998b126605d1132, type: 3}
+  - {fileID: 21300000, guid: a5a2788f44e4f474e9cc372f1e87df57, type: 3}
+  - {fileID: 21300000, guid: 3e945a9f8b6fa284a8532bf9035fccca, type: 3}
+  - {fileID: 21300000, guid: 27cb30af80f80cf45b0114ef09cf341a, type: 3}
+  - {fileID: 21300000, guid: b1ae2bbfafeb3134d979ef3b7f4f49a4, type: 3}
+  - {fileID: 21300000, guid: 99f00dbf35ad4f74d96cd8c8ae37e150, type: 3}
+  - {fileID: 21300000, guid: 5faf2eefb2661604d95b35cf994768ec, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Pickup_Chest_Gold
+  - Heal _FX
+  - Coin_4
+  - Pickup_Health_Big
+  - crosshair
+  - ScreenFlash_Dmg
+  - Coin_3
+  - Bar_CD
+  - Bar_HP
+  - PickUp_FX
+  - Pickup_Exp1
+  - aim 1
+  - Pickup_Bomb
+  - aim 2
+  - Bar_BG
+  - aim_Ice
+  - FencePost_Energy
+  - Flash_519
+  - CrossHair_Green
+  - crosshair 1
+  - Coin_5
+  - aim_Fire
+  - DmgFlash_2
+  - Pickup_Exp4
+  - Beam
+  - Pickup_Magnet
+  - Pickup_Exp2
+  - Coin_1
+  - Pickup_Chest_Black
+  - Coin_2
+  - aim
+  - FontCritBG
+  - Pickup_Chest_Normal
+  - Pickup_Coin
+  - Pickup_Health_Small
+  - Pickup_Exp3
+  - Crit-bg
+  m_RenderDataMap: {}
+  m_Tag: GameplaySprite
+  m_IsVariant: 0

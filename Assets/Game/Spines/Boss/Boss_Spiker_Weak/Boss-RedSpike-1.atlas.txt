@@ -1,0 +1,33 @@
+Boss-RedSpike-1.png
+	size: 1084, 1084
+	filter: Linear, Linear
+	pma: true
+AMJ
+	bounds: 330, 311, 177, 179
+	offsets: 601, 311, 934, 924
+	rotate: 180
+AM_Ball
+	bounds: 783, 362, 300, 321
+	offsets: 531, 49, 934, 924
+	rotate: 180
+BD_Bot
+	bounds: 415, 486, 371, 221
+	offsets: 271, 184, 934, 924
+BD_Top
+	bounds: 0, 705, 469, 378
+	offsets: 230, 204, 934, 924
+HD
+	bounds: 466, 726, 357, 312
+	offsets: 274, 446, 934, 924
+	rotate: 90
+LG
+	bounds: 504, 320, 143, 167
+	offsets: 487, 88, 934, 924
+Shoulder_2
+	bounds: 756, 645, 438, 307
+	offsets: 430, 321, 934, 924
+	rotate: 270
+Shoulder_Back_2
+	bounds: 0, 409, 332, 298
+	offsets: 158, 344, 934, 924
+	rotate: 180

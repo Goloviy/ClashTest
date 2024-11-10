@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_CommonIcon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 16ada8d43206dbd418716a5a0bd11d15, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 1475980010f846e4c90cf7193777f2e3: 21300000
+    - 96c790902b174e54cbffc397a49ccf82: 21300000
+    - abfd6c7264231c740888c98ec030336e: 21300000
+    - 6f65e4432a8e1824a84d9a7d3d607bf3: 21300000
+    - 30ae9943d489cc94e909a1e861b74ef4: 21300000
+    - 8e640e9362c23184984ab2a6dc0b7e3b: 21300000
+    - c4a387a30cff69c459d5fab388da2693: 21300000
+    - 46a536b48982b054b987cc39fe7ae6fa: 21300000
+    - 6ce1f085c1947a346b9a40d63c00eb76: 21300000
+    - 24434c26a6accaa4b9598c5ead2dfb7a: 21300000
+    - 70865746b2428164180954e73e26f1fd: 21300000
+    - ee4de2080350c80449e1034f19747932: 21300000
+    - 765133085a2991a41b56f952d255b769: 21300000
+    - 1794ce28794b7da48be677e79bdf61ff: 21300000
+    - 4fd59c385ece62940b78fd2292ef44e6: 21300000
+    - aba9fe98b74223a418a8668750904b4f: 21300000
+    - f7d71aa8897e0504bbf80a72a0d3f363: 21300000
+    - 4ab114092bbc8c940924750b13d922ff: 21300000
+    - 51ad34e9370270e4698410bc22b196df: 21300000
+    - 74e5fae9301f76848be0eb70da045107: 21300000
+    - 55f2813a9bf0e2a43a5c6e280b72a67e: 21300000
+    - cf4f8f7afb21441429b5dac4ab253f7b: 21300000
+    - 5a6e1dea4fe900549ba329a01e089044: 21300000
+    - e5b0a57bcdd821f439b839e591860f36: 21300000
+    - 5881681cf9eaac944b8e6c128409b6c3: 21300000
+    - 0b52334c7e64d4c4baace63230d28760: 21300000
+    - fdf46f5d1717fcb4195106b80503f54b: 21300000
+    - 71d91d6dd79ea0a4baa48e4fad34e95f: 21300000
+    - a76b37ad15eb7e34abeb1c5282edc855: 21300000
+    - ba51983e1a71d004d97fbaf50231181b: 21300000
+    - 688b55fe9976d284a8aeb26dbbb18344: 21300000
+    - db17c02f7a977ed488481c19a43be165: 21300000
+    - b5ccde8f37e8c524595ca45c96366ce7: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1475980010f846e4c90cf7193777f2e3, type: 3}
+  - {fileID: 21300000, guid: 96c790902b174e54cbffc397a49ccf82, type: 3}
+  - {fileID: 21300000, guid: abfd6c7264231c740888c98ec030336e, type: 3}
+  - {fileID: 21300000, guid: 6f65e4432a8e1824a84d9a7d3d607bf3, type: 3}
+  - {fileID: 21300000, guid: 30ae9943d489cc94e909a1e861b74ef4, type: 3}
+  - {fileID: 21300000, guid: 8e640e9362c23184984ab2a6dc0b7e3b, type: 3}
+  - {fileID: 21300000, guid: c4a387a30cff69c459d5fab388da2693, type: 3}
+  - {fileID: 21300000, guid: 46a536b48982b054b987cc39fe7ae6fa, type: 3}
+  - {fileID: 21300000, guid: 6ce1f085c1947a346b9a40d63c00eb76, type: 3}
+  - {fileID: 21300000, guid: 24434c26a6accaa4b9598c5ead2dfb7a, type: 3}
+  - {fileID: 21300000, guid: 70865746b2428164180954e73e26f1fd, type: 3}
+  - {fileID: 21300000, guid: ee4de2080350c80449e1034f19747932, type: 3}
+  - {fileID: 21300000, guid: 765133085a2991a41b56f952d255b769, type: 3}
+  - {fileID: 21300000, guid: 1794ce28794b7da48be677e79bdf61ff, type: 3}
+  - {fileID: 21300000, guid: 4fd59c385ece62940b78fd2292ef44e6, type: 3}
+  - {fileID: 21300000, guid: aba9fe98b74223a418a8668750904b4f, type: 3}
+  - {fileID: 21300000, guid: f7d71aa8897e0504bbf80a72a0d3f363, type: 3}
+  - {fileID: 21300000, guid: 4ab114092bbc8c940924750b13d922ff, type: 3}
+  - {fileID: 21300000, guid: 51ad34e9370270e4698410bc22b196df, type: 3}
+  - {fileID: 21300000, guid: 74e5fae9301f76848be0eb70da045107, type: 3}
+  - {fileID: 21300000, guid: 55f2813a9bf0e2a43a5c6e280b72a67e, type: 3}
+  - {fileID: 21300000, guid: cf4f8f7afb21441429b5dac4ab253f7b, type: 3}
+  - {fileID: 21300000, guid: 5a6e1dea4fe900549ba329a01e089044, type: 3}
+  - {fileID: 21300000, guid: e5b0a57bcdd821f439b839e591860f36, type: 3}
+  - {fileID: 21300000, guid: 5881681cf9eaac944b8e6c128409b6c3, type: 3}
+  - {fileID: 21300000, guid: 0b52334c7e64d4c4baace63230d28760, type: 3}
+  - {fileID: 21300000, guid: fdf46f5d1717fcb4195106b80503f54b, type: 3}
+  - {fileID: 21300000, guid: 71d91d6dd79ea0a4baa48e4fad34e95f, type: 3}
+  - {fileID: 21300000, guid: a76b37ad15eb7e34abeb1c5282edc855, type: 3}
+  - {fileID: 21300000, guid: ba51983e1a71d004d97fbaf50231181b, type: 3}
+  - {fileID: 21300000, guid: 688b55fe9976d284a8aeb26dbbb18344, type: 3}
+  - {fileID: 21300000, guid: db17c02f7a977ed488481c19a43be165, type: 3}
+  - {fileID: 21300000, guid: b5ccde8f37e8c524595ca45c96366ce7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - pieces-shoes
+  - star
+  - gem
+  - slot-belt
+  - equipment-4-bg
+  - slot-weapon
+  - icon-energy
+  - btn-no
+  - pieces-belt
+  - gold
+  - icon-exp
+  - icon-reward-video
+  - equipment-5-bg
+  - slot-armor
+  - gem 1
+  - btn-yes
+  - equipment-6-bg
+  - pieces-weapon
+  - slot-glove
+  - pieces-unknown
+  - equipment-3-bg
+  - pieces-gloves
+  - btn-close 1
+  - equipment-2-bg
+  - btn-common-1
+  - slot-shoes
+  - alert-bg
+  - icon-rd-equipment
+  - pieces-helmet
+  - pieces-armor
+  - equipment-1-bg
+  - icon-reward-video_Bloom
+  - slot-helmet
+  m_RenderDataMap: {}
+  m_Tag: Atlas_CommonIcon
+  m_IsVariant: 0

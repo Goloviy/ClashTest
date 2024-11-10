@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 899dd5aaf08239347bbd736ab5525dad, type: 3}
+  m_Name: Weapon-Katana
+  m_EditorClassIdentifier: 
+  id: db906738-f06e-4d72-ab8d-e6c0c5b064d4
+  title: Katana
+  spriteIcons:
+  - {fileID: 21300000, guid: ac402a5b058eb194aa5840effb88e667, type: 3}
+  - {fileID: 21300000, guid: ac402a5b058eb194aa5840effb88e667, type: 3}
+  - {fileID: 21300000, guid: ac402a5b058eb194aa5840effb88e667, type: 3}
+  - {fileID: 21300000, guid: ac402a5b058eb194aa5840effb88e667, type: 3}
+  - {fileID: 21300000, guid: 2e9e7acdd23df464db09f246f5f7bf70, type: 3}
+  - {fileID: 21300000, guid: 2e9e7acdd23df464db09f246f5f7bf70, type: 3}
+  - {fileID: 21300000, guid: 2e9e7acdd23df464db09f246f5f7bf70, type: 3}
+  - {fileID: 21300000, guid: 2e9e7acdd23df464db09f246f5f7bf70, type: 3}
+  - {fileID: 21300000, guid: 2e9e7acdd23df464db09f246f5f7bf70, type: 3}
+  - {fileID: 21300000, guid: 2e9e7acdd23df464db09f246f5f7bf70, type: 3}
+  - {fileID: 21300000, guid: 2e9e7acdd23df464db09f246f5f7bf70, type: 3}
+  descriptions: Equipment/Des.Katana
+  slot: 1
+  currency: 2
+  basePrice: 20
+  isSuper: 1
+  hpBase: 0
+  atkBase: 4
+  defBase: 0
+  critRateBase: 10
+  critDamageBase: 40
+  passiveSkill: 16
+  gradeSkills:
+  - {fileID: 11400000, guid: 964ec336c3ea0764790d027f4bdcddd9, type: 2}
+  - {fileID: 11400000, guid: 7e93183fb2f11d14e9ae748c0ac06ea6, type: 2}
+  - {fileID: 11400000, guid: 5c17bc07cf6e1ee4990aeb7de9e6ee61, type: 2}
+  - {fileID: 11400000, guid: 730ede324b9902a47aa5e43df1239515, type: 2}
+  - {fileID: 11400000, guid: 3056abd9f74e3c443a7a61118f5acdb5, type: 2}

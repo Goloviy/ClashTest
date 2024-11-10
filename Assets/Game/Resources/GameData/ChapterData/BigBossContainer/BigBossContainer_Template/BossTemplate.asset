@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90016d5ad20d1ee449033ad4aa391c63, type: 3}
+  m_Name: BossTemplate
+  m_EditorClassIdentifier: 
+  id: 3f417c77-781c-4160-899d-dc0bc5631d29
+  timeSpawn: 180
+  idBoss: 801
+  hp: 10000
+  atk: 10
+  mSpeed: 2
+  sizeMultiply: 1
+  PrefabBoss: {fileID: 1094036658854905957, guid: 4a76ff777c7ae6d428c2fa6f630dd1eb, type: 3}
+  dropBox:
+  - percent: 100
+    prefabItem: {fileID: 117128856839085343, guid: 2d253bfdc3f7b544ab1367c8efc1bc8d, type: 3}
+  - percent: 100
+    prefabItem: {fileID: 6976003501767913895, guid: 609c5ace1ffd278408333d746b9a2d70, type: 3}
+  - percent: 100
+    prefabItem: {fileID: 117128856839085343, guid: 3754b8ca401ba4d42a26818d3ca58ad3, type: 3}

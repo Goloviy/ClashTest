@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416112af7fe80d24fa191da568bee29c, type: 3}
+  m_Name: Wave_Template 1
+  m_EditorClassIdentifier: 
+  id: 64c4fc8f-2f02-49d7-a652-91b8c501c63f
+  isWarning: 0
+  timeInterval: 6
+  timeStart: 5
+  timeEnd: 300
+  minDistance: 8
+  deltaDistance: 1
+  containers: []

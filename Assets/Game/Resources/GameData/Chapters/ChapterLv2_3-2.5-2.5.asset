@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2324939be134345478ef926b60975333, type: 3}
+  m_Name: ChapterLv2_3-2.5-2.5
+  m_EditorClassIdentifier: 
+  id: 6c992fd2-9030-451f-b0a2-aaf913ed172c
+  icon: {fileID: 21300000, guid: 89999d335c7c19e4dba4c8afa4021759, type: 3}
+  bg: {fileID: 21300000, guid: e50739bf0592a2f49ba6bcff9f738b41, type: 3}
+  level: 3
+  timePlay: 302
+  title: Twilight
+  des: Zombie attack Racoon City
+  afkEarningGoldPerMin: 70
+  afkEarningExpPerMin: 20
+  afkEarningPieceUpgradePerMin: 0.15
+  afkEarningItemPerMin: 0.015
+  rewards:
+  - currency: 1
+    number: 5000
+  - currency: 4
+    number: 100
+  - currency: 100
+    number: 1
+  - currency: 86
+    number: 3
+  - currency: 87
+    number: 1
+  chapterChests:
+  - idChest: 301
+    description: Survive the first boss
+    timeSurvive: 181
+    currencyReward:
+      currency: 2
+      number: 100
+  - idChest: 302
+    description: Survive the second boss
+    timeSurvive: 361
+    currencyReward:
+      currency: 2
+      number: 200
+  waves:
+  - {fileID: 11400000, guid: 387a586d16ad9794480f38164d026650, type: 2}
+  - {fileID: 11400000, guid: 7795389a3fd1fbd439528263e44fb0dd, type: 2}
+  - {fileID: 11400000, guid: 1095336b914e92d43b8e9c1704132b8f, type: 2}
+  - {fileID: 11400000, guid: 7c81b50d3d77f5c46a1cb64b9fde460e, type: 2}
+  - {fileID: 11400000, guid: 60cb1c70bd2002c41a860066d79fb1d1, type: 2}
+  - {fileID: 11400000, guid: 84c064a049fcc55428eab591ec72c7dd, type: 2}
+  - {fileID: 11400000, guid: 14e3970df7d62b24eac103353fbd8ab6, type: 2}
+  - {fileID: 11400000, guid: 33e4537caaff4ce4094ed90db3cdd1d1, type: 2}
+  miniBoss:
+  - {fileID: 11400000, guid: 9213146f41bc28041ab216dffe23566a, type: 2}
+  - {fileID: 11400000, guid: ce21412d6d1f7da46ad8bf36e5487e79, type: 2}
+  listBoss:
+  - {fileID: 11400000, guid: 8f9dbcafb298880459e30d0e2d84e208, type: 2}
+  - {fileID: 11400000, guid: d5d72852975b22645ab2328b675f37f1, type: 2}

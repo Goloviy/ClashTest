@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c50d061f52d640d45abf004bc38f17bb, type: 3}
+  m_Name: ds-Armor
+  m_EditorClassIdentifier: 
+  id: 46b13aef-401f-4c8e-9e60-22c1fb82b3f3
+  title: Armor Design
+  currency: 83
+  icon: {fileID: 21300000, guid: ba51983e1a71d004d97fbaf50231181b, type: 3}
+  rarity: 0
+  isShowInBag: 1
+  modelId: bbffa914-b92d-4fb7-9c7e-7bbdce7899f9

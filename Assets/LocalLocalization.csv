@@ -1,0 +1,43 @@
+﻿Key,Type,Desc,Vietnamese,English,Description
+Afk max 16 hours,Text,,Afk tối đa 16 giờ,Afk max 16 hours,
+Apply,Text,,Xác Nhận,Apply,
+Are you sure Buy 15 Stamina,Text,,Bạn có chắc mua 15 Thể Lực,Are you sure Buy 15 Stamina,Are you sure Buy 15 Stamina
+By Quality,Text,Nút bấm ở túi đồ,Kiểu Lọc,By Quality,
+Ch. Chest,Text,,Ch. Ngực,Ch. Chest,
+Chapter Chest,Text,,Rương Chương,Chapter Chest,
+ChapterData/,Text,undefined,,,
+ChapterData/des.1,Text,,Rất nhiều zombie tấn công thành phố Racoon ....,A lot of zombie attack to Racoon city ....,A lot of zombie attack to Racoon city ....
+ChapterData/des.2,Text,,Rất nhiều zombie tấn công thành phố Racoon ....,A lot of zombie attack to Racoon city ....,
+ChapterData/des.3,Text,,Một chiều hoàng hôn thành phố bị tấn công,A lot of zombie attack to City in Sunset,
+ChapterData/des.4,Text,,Một chiều hoàng hôn thành phố bị tấn công,A lot of zombie attack to City in Sunset,
+ChapterData/tit.1,Text,,1. Ban đầu,1. In the Beginning,
+ChapterData/tit.2,Text,,1. Ban đầu 2,1. In the Beginning seconds,
+ChapterData/tit.3,Text,,3. Hoàng Hôn 2,3. Sunset 2,
+ChapterData/tit.4,Text,,4. Hoàng Hôn 3,4. Sunset 3,
+Claim,Text,,Nhận,Claim,
+EquipmentInfo/Equip,Text,,Đeo Đồ,Equip,
+EquipmentInfo/Levelup,Text,,Nâng Cấp,Level Up,Level Up
+EquipmentInfo/MaxLevel,Text,,Mức Tối Đa,Max Level,Max Level
+EquipmentInfo/Unequip,Text,,Tháo Đồ,UnEquip,UnEquip
+Filter,Text,,Lọc,Filter,
+Gacha,Text,,Rương May Mắn,Gachapon,
+HP,Text,,Chỉ Số,Stat,Stat
+Merge,Text,Nút bấm ở túi đồ,Ghép Đồ,Merge,
+"More chapters, more earnings",Text,,"Nhiều chương hơn, nhiều thu nhập hơn","More chapters, more earnings",
+My Equipment,Text,,Túi Đồ,My Bag,
+Not Enough Gem,Text,,Không Đủ Đá Quý,Not Enough Gem,Not Enough Gem
+Not Enough Source Require,Text,,Không Đủ Tài Nguyên Yêu Cầu,Not Enough Source Require,Not Enough Source Require
+OK,Text,,Xác Nhận,Ok,OK
+Patrol,Text,,Tuần Tra,Patrol,
+Pieces Collections,Text,,Bộ Sưu Tập Miếng,Pieces Collections,
+Play!,Text,,Chơi!,Play!,
+PopupMerge/MaxLevel,Text,,Cấp Tối Đa,Max Level,Max Level
+PopupMerge/MergeAll,Text,,Hợp Nhất Tất Cả,Merge All,Merge All
+PopupMerge/SpecialItem,Text,,--Vật Phẩm Đặc Biệt--,--Special Items--,--Special Items--
+PopupMerge/Success,Text,,Thành Công!,Success!,Success!
+Premium,Text,,Cao Cấp,Premium,
+Purchase Energy,Text,,Mua Năng Lượng,Purchase Energy,
+QuickEarnings,Text,,Thu nhập nhanh,QuickEarnings,
+Require Clear Level,Text,,Yêu Cầu Vượt Chapter ,Require Clear Chapter Level,Require Clear Level
+Standard,Text,,Tiêu Chuẩn,Standard,
+Success!,Text,,Thành Công!,Success!,

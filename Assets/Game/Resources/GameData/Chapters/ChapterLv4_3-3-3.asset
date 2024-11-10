@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2324939be134345478ef926b60975333, type: 3}
+  m_Name: ChapterLv4_3-3-3
+  m_EditorClassIdentifier: 
+  id: 6c992fd2-9030-451f-b0a2-aaf913ed172c
+  icon: {fileID: 21300000, guid: da97ee925682a0b478ad7cfd9eaad2c9, type: 3}
+  bg: {fileID: 21300000, guid: 08e34d4ac6c4c6346930730843cf15f4, type: 3}
+  level: 5
+  timePlay: 362
+  title: Twilight 3
+  des: Zombie attack Racoon City
+  afkEarningGoldPerMin: 90
+  afkEarningExpPerMin: 30
+  afkEarningPieceUpgradePerMin: 0.25
+  afkEarningItemPerMin: 0.025
+  rewards:
+  - currency: 1
+    number: 5000
+  - currency: 4
+    number: 100
+  - currency: 100
+    number: 1
+  - currency: 86
+    number: 3
+  - currency: 87
+    number: 1
+  chapterChests:
+  - idChest: 501
+    description: Survive for more than 3 min
+    timeSurvive: 181
+    currencyReward:
+      currency: 2
+      number: 100
+  - idChest: 502
+    description: Survive for more than 6 min
+    timeSurvive: 361
+    currencyReward:
+      currency: 2
+      number: 200
+  waves:
+  - {fileID: 11400000, guid: 437c66938d2305048a982f0a78cdf5c3, type: 2}
+  - {fileID: 11400000, guid: 83f9ff395deb9594c824cac80399459f, type: 2}
+  - {fileID: 11400000, guid: 4b4327e11abb38f419a9bcdf0d319a32, type: 2}
+  - {fileID: 11400000, guid: 44958c00ae9d8ef4186f0fa51ecd712b, type: 2}
+  - {fileID: 11400000, guid: aaeb6204fbe1a214ead8ac473490e8af, type: 2}
+  - {fileID: 11400000, guid: bedfb1cf1231e7c479475b6d72375677, type: 2}
+  - {fileID: 11400000, guid: bc1479bd4f3dc064596356e51d15f55b, type: 2}
+  - {fileID: 11400000, guid: 2e86072c956cb2f45a486a1eb7cbd042, type: 2}
+  - {fileID: 11400000, guid: 66bf9481be399574aa0b0389ce3cbe3f, type: 2}
+  miniBoss:
+  - {fileID: 11400000, guid: 8e847e2d6919aa44c8a74fbcd73fb322, type: 2}
+  - {fileID: 11400000, guid: 6ef67cbd80986ef4297a8a973d161dc9, type: 2}
+  - {fileID: 11400000, guid: fc0ef0c29ab24c04291be77f028f7be6, type: 2}
+  listBoss:
+  - {fileID: 11400000, guid: 0306e9c1977b74742a91203c97053570, type: 2}
+  - {fileID: 11400000, guid: 664db838ea1b65741b09f64abcc04e18, type: 2}
+  - {fileID: 11400000, guid: e264ad3dbefd31c4992493381ebf06d9, type: 2}

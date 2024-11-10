@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2088502095293130674
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2088502095293130672}
+  - component: {fileID: 2088502095293130675}
+  m_Layer: 0
+  m_Name: GameConfig
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2088502095293130672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2088502095293130674}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.2108555, y: 1.1177735, z: 2.3973424}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2088502095293130675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2088502095293130674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eb1fa82c6329094dba76406e7846bae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StartAttack: 10
+  StartHp: 100
+  StartDefense: 0
+  StartMoveSpeed: 2.5
+  StartCriticalRate: 0
+  StartCriticalDamage: 1.5
+  DefaultSkill: 1
+  TestSkills: 
+  PriceDesign: 1000
+  MaxLevel: 99
+  ExpLevel: 050000000f0000001e00000032000000460000005f0000007800000091000000aa000000be000000d7000000f00000000901000027010000450100006301000081010000a4010000c7010000ea0100000d020000350200005d02000085020000ad020000d502000007030000390300006b0300009d030000e3030000290400006f040000b5040000fb0400004b0500009b050000eb0500003b0600008b060000120700009907000020080000a70800002e090000b50900003c0a0000c30a00004a0b0000d10b0000990c0000610d0000290e0000f10e0000b90f0000811000004911000011120000d9120000a11300009b140000951500008f16000089170000831800007d190000771a0000711b00006b1c0000651d00009b1e0000d11f0000072100003d22000073230000a9240000df250000152700004b28000081290000252b0000c92c00006d2e000011300000b531000059330000fd340000a136000045380000e9390000413c0000993e0000f1400000494300004b4600004d4900004f4c0000514f000053520000
+  MultiplyExp: 2
+  PackageGold: 10
+  PackageGold2: 25
+  PackageGold3: 50
+  BombMultiDamage: 50
+  MaxChapter: 4
+  TimeRecoverStamina: 5
+  MaxStamina: 30
+  UserLevelupRewardGem: 200
+  TimeMineStaminaMinutes: 3
+  StartAccountLevel: 1
+  StartAccountGold: 0
+  StartAccountGem: 0
+  StartChapterLevel: 1
+  PatrolStartLevel: 2
+  PatrolFirstRewardTimeMinutes: 480
+  PatrolQuickPatrolTimeMinutes: 600
+  PatrolMaxAfkTimeMinutes: 1000

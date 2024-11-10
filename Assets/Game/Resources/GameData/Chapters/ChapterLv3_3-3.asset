@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2324939be134345478ef926b60975333, type: 3}
+  m_Name: ChapterLv3_3-3
+  m_EditorClassIdentifier: 
+  id: 6c992fd2-9030-451f-b0a2-aaf913ed172c
+  icon: {fileID: 21300000, guid: bb8cc83b303c31547a9e332582f0c6f6, type: 3}
+  bg: {fileID: 21300000, guid: 878fcac05e912264dbcf3a0366a222bf, type: 3}
+  level: 4
+  timePlay: 392
+  title: Twilight 2
+  des: Zombie attack Racoon City
+  afkEarningGoldPerMin: 80
+  afkEarningExpPerMin: 25
+  afkEarningPieceUpgradePerMin: 0.2
+  afkEarningItemPerMin: 0.02
+  rewards:
+  - currency: 1
+    number: 5000
+  - currency: 4
+    number: 100
+  - currency: 100
+    number: 1
+  - currency: 86
+    number: 3
+  - currency: 87
+    number: 1
+  chapterChests:
+  - idChest: 401
+    description: Survive the first boss
+    timeSurvive: 211
+    currencyReward:
+      currency: 2
+      number: 100
+  - idChest: 402
+    description: Survive the second boss
+    timeSurvive: 391
+    currencyReward:
+      currency: 2
+      number: 200
+  waves:
+  - {fileID: 11400000, guid: b823405d680fab646ae742a141096e7b, type: 2}
+  - {fileID: 11400000, guid: 01f15e35e6705d84fbf5aa3e8d45f1fc, type: 2}
+  - {fileID: 11400000, guid: f5f13262eb96cf54b81420471c9bfff2, type: 2}
+  - {fileID: 11400000, guid: a21818fe18c755c439713727b51744ee, type: 2}
+  - {fileID: 11400000, guid: 59a8f14d95b62714690b6203a578687b, type: 2}
+  - {fileID: 11400000, guid: b1ad7b84e7fed4e42ae91fba2a23ee19, type: 2}
+  - {fileID: 11400000, guid: 126f8e09238eaba4cb802cc66ebde4c5, type: 2}
+  - {fileID: 11400000, guid: 08343b7d08936c44ab7221b9d711dbb1, type: 2}
+  - {fileID: 11400000, guid: 30201c5d969a2914992893e7f1c7d471, type: 2}
+  miniBoss:
+  - {fileID: 11400000, guid: 5f56761cf2e854c4d8086d12203c61c6, type: 2}
+  - {fileID: 11400000, guid: cc702cfc330f57c408403a92566637cf, type: 2}
+  - {fileID: 11400000, guid: 8fc49a36f4fcce047a96a4dc7055fd31, type: 2}
+  - {fileID: 11400000, guid: 4e31296976313f24da62711e8fcd56d8, type: 2}
+  - {fileID: 11400000, guid: d727c9e637475384bae9a9aa82005e15, type: 2}
+  - {fileID: 11400000, guid: d2ce4083de12b4f41873f9409dd08a1c, type: 2}
+  - {fileID: 11400000, guid: d76fdf75a68a48f4582d7822d74eaa2b, type: 2}
+  - {fileID: 11400000, guid: 46f215a10ca7f944e808fa8b36bdddb0, type: 2}
+  - {fileID: 11400000, guid: 9aad6c2ee42ea5f4fb68ace9090dbe74, type: 2}
+  - {fileID: 11400000, guid: 08f132eecb5907943a52104c752248d2, type: 2}
+  listBoss:
+  - {fileID: 11400000, guid: 473002d2b98f31b498246a5ffdff68f5, type: 2}
+  - {fileID: 11400000, guid: d6b4efbd582454b46b9d5c685ee49e78, type: 2}
+  - {fileID: 11400000, guid: 2b9a620195368954f9cbd63945de6ea9, type: 2}

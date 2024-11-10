@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d25749568c137d94ab428ac31d268ef0, type: 3}
+  m_Name: Container_MiniBoss_4.1
+  m_EditorClassIdentifier: 
+  id: 55aa66d6-e8a6-4fe3-8309-305ece8ff2bc
+  timeSpawn: 120
+  idMonster: 502
+  hp: 350
+  atk: 6
+  mSpeed: 0.8
+  sizeMultiply: 1
+  PrefabMonster: {fileID: 3336627895024142526, guid: 8bc3d75378e164c409e2fdc590e6ff9d, type: 3}
+  dropBox:
+  - percent: 100
+    prefabItem: {fileID: 117128856839085343, guid: 2d253bfdc3f7b544ab1367c8efc1bc8d, type: 3}
+  - percent: 100
+    prefabItem: {fileID: 6976003501767913895, guid: 609c5ace1ffd278408333d746b9a2d70, type: 3}
+  - percent: 100
+    prefabItem: {fileID: 279967685929018096, guid: 3e3d726703f72e64e9a5e907ed138467, type: 3}

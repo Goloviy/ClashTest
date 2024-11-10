@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b055deaaf4aaf7748891aac6315d84ab, type: 3}
+  m_Name: GravityField
+  m_EditorClassIdentifier: 
+  spriteIcon: {fileID: 21300000, guid: e47608768c4a95d45925128b7e6a6bc6, type: 3}
+  type: 6
+  group: 2
+  maxLevel: 5
+  nameSkill: Gravity Field
+  descriptions: No content
+  evolType: 
+  requireLearns: []
+  descriptionsLevelup:
+  - No content
+  - No content
+  - No content
+  - No content
+  - No content

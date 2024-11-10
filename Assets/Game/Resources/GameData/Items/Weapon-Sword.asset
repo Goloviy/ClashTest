@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 899dd5aaf08239347bbd736ab5525dad, type: 3}
+  m_Name: Weapon-Sword
+  m_EditorClassIdentifier: 
+  id: a78e3e57-a5bf-4805-97d0-3ea63b4f2f5b
+  title: Sword
+  spriteIcons:
+  - {fileID: 21300000, guid: aa90ea9c9936a974c8f156071b56a112, type: 3}
+  - {fileID: 21300000, guid: aa90ea9c9936a974c8f156071b56a112, type: 3}
+  - {fileID: 21300000, guid: aa90ea9c9936a974c8f156071b56a112, type: 3}
+  - {fileID: 21300000, guid: 616a04acdd59167428d1fdd2f09d27c1, type: 3}
+  - {fileID: 21300000, guid: 616a04acdd59167428d1fdd2f09d27c1, type: 3}
+  - {fileID: 21300000, guid: 616a04acdd59167428d1fdd2f09d27c1, type: 3}
+  - {fileID: 21300000, guid: 616a04acdd59167428d1fdd2f09d27c1, type: 3}
+  - {fileID: 21300000, guid: 616a04acdd59167428d1fdd2f09d27c1, type: 3}
+  - {fileID: 21300000, guid: 616a04acdd59167428d1fdd2f09d27c1, type: 3}
+  - {fileID: 21300000, guid: 616a04acdd59167428d1fdd2f09d27c1, type: 3}
+  - {fileID: 21300000, guid: 616a04acdd59167428d1fdd2f09d27c1, type: 3}
+  descriptions: Equipment/Des.Sword
+  slot: 1
+  currency: 2
+  basePrice: 20
+  isSuper: 0
+  hpBase: 0
+  atkBase: 4
+  defBase: 0
+  critRateBase: 0
+  critDamageBase: 0
+  passiveSkill: 15
+  gradeSkills:
+  - {fileID: 11400000, guid: 964ec336c3ea0764790d027f4bdcddd9, type: 2}
+  - {fileID: 11400000, guid: 7e93183fb2f11d14e9ae748c0ac06ea6, type: 2}
+  - {fileID: 11400000, guid: 5c17bc07cf6e1ee4990aeb7de9e6ee61, type: 2}
+  - {fileID: 11400000, guid: 12788a4062c0aaf4aa4784a9b805e654, type: 2}
+  - {fileID: 11400000, guid: 12788a4062c0aaf4aa4784a9b805e654, type: 2}

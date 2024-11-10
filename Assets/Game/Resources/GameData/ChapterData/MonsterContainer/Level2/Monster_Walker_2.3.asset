@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5aaa93c9bdf3374bacc2d97b6eb92e1, type: 3}
+  m_Name: Monster_Walker_2.3
+  m_EditorClassIdentifier: 
+  id: 62d670de-96e8-4a17-9c8d-7cda9950e0fb
+  idMonster: 107
+  hp: 80
+  atk: 6
+  mSpeed: 1
+  PrefabMonster: {fileID: 356504234350787228, guid: a9ddd305e66d1a74181e9eb346167c53, type: 3}
+  dropBox:
+  - percent: 50
+    prefabItem: {fileID: 117128856839085343, guid: 964326cbccdfab047a7bc0de133575e2, type: 3}

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 858c3448f419b1d41ba131846a8bd724, type: 3}
+  m_Name: GachaBoxData-Premium
+  m_EditorClassIdentifier: 
+  gachaType: 2
+  rarityMax: 3
+  rarityData:
+  - point: 0
+    rarity: 0
+  - point: 140
+    rarity: 1
+  - point: 54
+    rarity: 2
+  - point: 3
+    rarity: 3
+  pointNormal: 9
+  equipments:
+  - {fileID: 11400000, guid: 7f2c2644132cb5e46982851ecb16d3ed, type: 2}
+  - {fileID: 11400000, guid: cec66ab6f2053c742bd2f8fc48592c26, type: 2}
+  - {fileID: 11400000, guid: 8af3e1bbc79e6ee4ca58e3c1313fb5c0, type: 2}
+  - {fileID: 11400000, guid: 032f88f3fcc67424fb8e111a9b05535f, type: 2}
+  - {fileID: 11400000, guid: b56ecbdb15f76214c913ae702fc5cb55, type: 2}
+  - {fileID: 11400000, guid: c96df3df6d408874d9c26825d01da6e7, type: 2}
+  - {fileID: 11400000, guid: a180acdd3a998364bbae04b61a770dd6, type: 2}
+  - {fileID: 11400000, guid: 8d27955118bd4bc4fb9593aaa97f6cb1, type: 2}
+  - {fileID: 11400000, guid: d7cee0f07b2373e46acff7bbdb06a6f4, type: 2}
+  - {fileID: 11400000, guid: 6dcce77a7da5552488ecc63e9f511191, type: 2}
+  - {fileID: 11400000, guid: a8d150dec15fb8f448b210b337df6118, type: 2}
+  - {fileID: 11400000, guid: 52e33c2d3f3b1d9408131182382e8ecd, type: 2}
+  - {fileID: 11400000, guid: c542fdbaf990871459ea93be13da16cd, type: 2}
+  - {fileID: 11400000, guid: 416c95df68d133748a7b1bdeb6eae531, type: 2}
+  - {fileID: 11400000, guid: 5c8da24a6a68ba74da5ae8b0f07e0457, type: 2}
+  - {fileID: 11400000, guid: a5e09cb9f83055d4ea51884acfa532aa, type: 2}
+  - {fileID: 11400000, guid: bd99e90c8b2b0b840b118a211d9c0eb5, type: 2}
+  - {fileID: 11400000, guid: c11ea3cf9636e234390d87c25f2a79aa, type: 2}
+  - {fileID: 11400000, guid: 36ee0b520e3dd6545978aa293aea581a, type: 2}
+  isDropSuperItem: 1
+  rarityDropSuper: 3
+  pointSuper: 3
+  superEquipments:
+  - {fileID: 11400000, guid: 17f586195d7d70146a12f46b8f2e5fb6, type: 2}
